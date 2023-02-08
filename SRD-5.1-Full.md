@@ -44291,9 +44291,8 @@ knows of the demiplane.
 
 # Creatures
 
-This appendix contains statistics for various animals,
-vermin, and other critters. The stat blocks are
-organized alphabetically by creature name.
+This appendix contains statistics for various animals, vermin, and other
+critters. The stat blocks are organized alphabetically by creature name.
 
 #### Ape
 
@@ -44324,18 +44323,15 @@ STR DEX CON INT WIS CHA
 
 **_Multiattack._** The ape makes two fist attacks.
 
-**_Fist._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
- _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+**_Fist._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_
+6 (1d6 + 3) bludgeoning damage.
 
-**_Rock._** _Ranged Weapon Attack:_ +5 to hit, range 25/50 ft.,
-one target.
- _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+**_Rock._** _Ranged Weapon Attack:_ +5 to hit, range 25/50 ft., one target.
+_Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
 #### Awakened Shrub
 
-_Small plant, unaligned
-_
+_Small plant, unaligned _
 
 **Armor Class** 9
 
@@ -44361,25 +44357,22 @@ STR DEX CON INT WIS CHA
 **Challenge** 0 (10 XP)
 
 ```
-False Appearance. While the shrub remains motionless,
-it is indistinguishable from a normal shrub.
+False Appearance. While the shrub remains motionless, it is indistinguishable
+from a normal shrub.
 ```
+
 ##### Actions
 
 ```
-Rake. Melee Weapon Attack: +1 to hit, reach 5 ft., one
-target.
- Hit:
- 1 (1d4 - 1) slashing damage.
+Rake. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 -
+1) slashing damage.
 ```
 
 ```
-An
- awakened shrub is an ordinary shrub given
-sentience and mobility by the
- awaken spell or
-similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the
+awaken spell or similar magic.
 ```
+
 #### Awakened Tree
 
 ```
@@ -44404,25 +44397,22 @@ Challenge
 ```
 
 ```
-False Appearance. While the tree remains motionless,
-it is indistinguishable from a normal tree.
+False Appearance. While the tree remains motionless, it is indistinguishable
+from a normal tree.
 ```
+
 ##### Actions
 
 ```
-Slam. Melee Weapon Attack: +6 to hit, reach 10 ft.,
-one target.
- Hit:
- 14 (3d6 + 4) bludgeoning damage.
+Slam. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 +
+4) bludgeoning damage.
 ```
 
 ```
-An
- awakened tree is an ordinary tree given
-sentience and mobility by the
- awaken spell or
-similar magic.
+An awakened tree is an ordinary tree given sentience and mobility by the
+awaken spell or similar magic.
 ```
+
 #### Axe Beak
 
 ```
@@ -44432,9 +44422,9 @@ Hit Points 19 (3d10 + 3)
 Speed 50 ft.
 ```
 
-###### STR DEX CON INT WIS CHA
+STR DEX CON INT WIS CHA
 
-###### 14 (+2)
+14 (+2)
  12 (+1)
  12 (+1) 2 (-4) 10 (+0) 5 (-3)
 
@@ -44447,20 +44437,16 @@ Speed 50 ft.
 
 ##### Actions
 
-**_Beak._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-target.
- _Hit:_ 6 (1d8 + 2) slashing damage.
+**_Beak._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_
+6 (1d8 + 2) slashing damage.
 
-An
- **axe beak** is a tall flightless bird with strong legs
-and a heavy, wedge-shaped beak. It has a nasty
-disposition and tends to attack any unfamiliar
-creature that wanders too close.
+An **axe beak** is a tall flightless bird with strong legs and a heavy,
+wedge-shaped beak. It has a nasty disposition and tends to attack any
+unfamiliar creature that wanders too close.
 
 #### Baboon
 
-_Small beast, unaligned
-_
+_Small beast, unaligned _
 
 **Armor Class** 12
 
@@ -44480,18 +44466,14 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Pack Tactics.
-_** The baboon has advantage on an attack
-roll against a creature if at least one of the baboon's
-allies is within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The baboon has advantage on an attack roll against a
+creature if at least one of the baboon's allies is within 5 feet of the
+creature and the ally isn't incapacitated.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 1 (1d4 - 1) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit: _
+1 (1d4 - 1) piercing damage.
 
 #### Badger
 
@@ -44517,16 +44499,17 @@ Challenge
 ```
 
 ```
-Keen Smell. The badger has advantage on Wisdom
-(Perception) checks that rely on smell.
+Keen Smell. The badger has advantage on Wisdom (Perception) checks that rely
+on smell.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one
-target.
- Hit: 1 piercing damage.
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing
+damage.
 ```
+
 #### Bat
 
 ```
@@ -44549,18 +44532,19 @@ Challenge
 ```
 
 ```
-Echolocation. The bat can't use its blindsight while
-deafened.
-Keen Hearing. The bat has advantage on Wisdom
-(Perception) checks that rely on hearing.
+Echolocation. The bat can't use its blindsight while deafened.
+
+Keen Hearing. The bat has advantage on Wisdom (Perception) checks that rely on
+hearing.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one
-creature.
- Hit: 1 piercing damage.
+Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1
+piercing damage.
 ```
+
 #### Black Bear
 
 ```
@@ -44584,21 +44568,19 @@ Languages --
 **Challenge
 ** 1/2 (100 XP)
 
-**_Keen Smell._** The bear has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The bear has advantage on Wisdom (Perception) checks that
+rely on smell.
 
 ##### Actions
 
-**_Multiattack._** The bear makes two attacks: one with its
-bite and one with its claws.
+**_Multiattack._** The bear makes two attacks: one with its bite and one with
+its claws.
 
-**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one
-target.
- _Hit:_ 5 (1d6 + 2) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_
+5 (1d6 + 2) piercing damage.
 
-**_Claws._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one
-target.
- _Hit:_ 7 (2d4 + 2) slashing damage.
+**_Claws._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_
+7 (2d4 + 2) slashing damage.
 
 #### Blink Dog
 
@@ -44623,34 +44605,25 @@ STR DEX CON INT WIS CHA
 
 **Senses** passive Perception 13
 
-**Languages** Blink Dog, understands Sylvan but can't
-speak it
+**Languages** Blink Dog, understands Sylvan but can't speak it
 
 **Challenge
 ** 1/4 (50 XP)
 
-**_Keen Hearing and Smell._** The dog has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+**_Keen Hearing and Smell._** The dog has advantage on Wisdom (Perception)
+checks that rely on hearing or smell.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:
-_ +3 to hit, reach 5 ft., one
-target.
- _Hit:
+**_Bite._** _Melee Weapon Attack: _ +3 to hit, reach 5 ft., one target. _Hit:
 _ 4 (1d6 + 1) piercing damage.
 
-**_Teleport (Recharge 4-6).
-_** The dog magically teleports,
-along with any equipment it is wearing or carrying, up
-to 40 feet to an unoccupied space it can see. Before or
-after teleporting, the dog can make one bite attack.
+**_Teleport (Recharge 4-6). _** The dog magically teleports, along with any
+equipment it is wearing or carrying, up to 40 feet to an unoccupied space it
+can see. Before or after teleporting, the dog can make one bite attack.
 
-A
- **blink dog** takes its name from its ability to blink in
-and out of existence, a talent it uses to aid its attacks
-and to avoid harm.
+A **blink dog** takes its name from its ability to blink in and out of
+existence, a talent it uses to aid its attacks and to avoid harm.
 
 #### Blood Hawk
 
@@ -44675,30 +44648,27 @@ Challenge
 ```
 
 ```
-Keen Sight. The hawk has advantage on Wisdom
-(Perception) checks that rely on sight.
-Pack Tactics.
- The hawk has advantage on an attack roll
-against a creature if at least one of the hawk's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
+Keen Sight. The hawk has advantage on Wisdom (Perception) checks that rely on
+sight.
+
+Pack Tactics. The hawk has advantage on an attack roll against a creature if
+at least one of the hawk's allies is within 5 feet of the creature and the
+ally isn't incapacitated.
 ```
 ##### Actions
 
 ```
-Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
- Hit: 4 (1d4 + 2) piercing damage.
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 +
+2) piercing damage.
 ```
 
 ```
-Taking its name from its crimson feathers and
-aggressive nature, the
- blood hawk fearlessly attacks
-almost any animal, stabbing it with its daggerlike
-beak. Blood hawks flock together in large numbers,
-attacking as a pack to take down prey.
+Taking its name from its crimson feathers and aggressive nature, the blood
+hawk fearlessly attacks almost any animal, stabbing it with its daggerlike
+beak. Blood hawks flock together in large numbers, attacking as a pack to take
+down prey.
 ```
+
 #### Boar
 
 ```
@@ -44720,20 +44690,14 @@ Challenge
  1/4 (50 XP)
 ```
 
-```
-Charge. If the boar moves at least 20 feet straight
-toward a target and then hits it with a tusk attack on
-```
+Charge. If the boar moves at least 20 feet straight toward a target and then
+hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6)
+slashing damage. If the target is a creature, it must succeed on a DC 11
+Strength saving throw or be knocked prone.
 
-the same turn, the target takes an extra 3 (1d6)
-slashing damage. If the target is a creature, it must
-succeed on a DC 11 Strength saving throw or be
-knocked prone.
-
-**_Relentless (Recharges after a Short or Long Rest).
-_** If
-the boar takes 7 damage or less that would reduce it to
-0 hit points, it is reduced to 1 hit point instead.
+**_Relentless (Recharges after a Short or Long Rest). _** If the boar takes 7
+damage or less that would reduce it to 0 hit points, it is reduced to 1 hit
+point instead.
 
 ##### Actions
 
@@ -44759,6 +44723,7 @@ STR DEX CON INT WIS CHA
  10 (+0)
  16 (+3) 2 (-4) 13 (+1) 7 (-2)
 ```
+
 **Skills** Perception +3
 
 **Senses** passive Perception 13
@@ -44768,22 +44733,19 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1 (200 XP)
 
-**_Keen Smell._** The bear has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The bear has advantage on Wisdom (Perception) checks that
+rely on smell.
 
 ##### Actions
 
-**_Multiattack._** The bear makes two attacks: one with its
-bite and one with its claws.
+**_Multiattack._** The bear makes two attacks: one with its bite and one with
+its claws.
 
-**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
- _Hit:_ 8 (1d8 + 4) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_
+8 (1d8 + 4) piercing damage.
 
-**_Claws._** _Melee Weapon Attack:
-_ +5 to hit, reach 5 ft., one
-target.
- _Hit:_ 11 (2d6 + 4) slashing damage.
+**_Claws._** _Melee Weapon Attack: _ +5 to hit, reach 5 ft., one target.
+_Hit:_ 11 (2d6 + 4) slashing damage.
 
 #### Camel
 
@@ -44806,13 +44768,14 @@ Languages --
 Challenge
  1/8 (25 XP)
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-target.
- Hit: 2 (1d4) bludgeoning damage.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4)
+bludgeoning damage.
 ```
+
 #### Cat
 
 ```
@@ -44837,16 +44800,17 @@ Challenge
 ```
 
 ```
-Keen Smell. The cat has advantage on Wisdom
-(Perception) checks that rely on smell.
+Keen Smell. The cat has advantage on Wisdom (Perception) checks that rely on
+smell.
 ```
+
 ##### Actions
 
 ```
-Claws. Melee Weapon Attack: +0 to hit, reach 5 ft., one
-target.
- Hit: 1 slashing damage.
+Claws. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1
+slashing damage.
 ```
+
 #### Constrictor Snake
 
 ```
@@ -44867,6 +44831,7 @@ Languages --
 Challenge
  1/4 (50 XP)
 ```
+
 ##### Actions
 
 ```
@@ -44876,12 +44841,9 @@ creature.
  5 (1d6 + 2) piercing damage.
 ```
 
-**_Constrict._** _Melee Weapon Attack:
-_ +4 to hit, reach 5 ft.,
-one creature.
- _Hit:_ 6 (1d8 + 2) bludgeoning damage, and
-the target is grappled (escape DC 14). Until this grapple
-ends, the creature is restrained, and the snake can't
+**_Constrict._** _Melee Weapon Attack: _ +4 to hit, reach 5 ft., one creature.
+_Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC
+14). Until this grapple ends, the creature is restrained, and the snake can't
 constrict another target.
 
 #### Crab
@@ -44912,10 +44874,8 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Claw._** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 1 bludgeoning damage.
+**_Claw._** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit: _
+1 bludgeoning damage.
 
 #### Crocodile
 
@@ -44943,21 +44903,15 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1/2 (100 XP)
 
-**_Hold Breath.
-_** The crocodile can hold its breath for 15
-minutes.
+**_Hold Breath. _** The crocodile can hold its breath for 15 minutes.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-creature.
- _Hit:_ 7 (1d10 + 2) piercing damage, and the
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature.
+_Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC
+12). Until this grapple ends, the target is restrained, and the crocodile
+can't bite another target.
 
-```
-target is grappled (escape DC 12). Until this grapple
-ends, the target is restrained, and the crocodile can't
-bite another target.
-```
 #### Death Dog
 
 ```
@@ -44981,36 +44935,32 @@ Challenge
 ```
 
 ```
-Two-Headed. The dog has advantage on Wisdom
-(Perception) checks and on saving throws against being
-blinded, charmed, deafened, frightened, stunned, or
+Two-Headed. The dog has advantage on Wisdom (Perception) checks and on saving
+throws against being blinded, charmed, deafened, frightened, stunned, or
 knocked unconscious.
 ```
+
 ##### Actions
 
 ```
 Multiattack. The dog makes two bite attacks.
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
- Hit: 5 (1d6 + 2) piercing damage. If the target is
-a creature, it must succeed on a DC 12 Constitution
-saving throw against disease or become poisoned until
-the disease is cured. Every 24 hours that elapse, the
-creature must repeat the saving throw, reducing its hit
-point maximum by 5 (1d10) on a failure. This reduction
-lasts until the disease is cured. The creature dies if the
-disease reduces its hit point maximum to 0.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 +
+2) piercing damage. If the target is a creature, it must succeed on a DC 12
+Constitution saving throw against disease or become poisoned until the disease
+is cured. Every 24 hours that elapse, the creature must repeat the saving
+throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction
+lasts until the disease is cured. The creature dies if the disease reduces its
+hit point maximum to 0.
 ```
 
 ```
-A
- death dog is an ugly two-headed hound that
-roams plains, and deserts. Hate burns in a death
-dog's heart, and a taste for humanoid flesh drives it
-to attack travelers and explorers. Death dog saliva
-carries a foul disease that causes a victim's flesh to
-slowly rot off the bone.
+A death dog is an ugly two-headed hound that roams plains, and deserts. Hate
+burns in a death dog's heart, and a taste for humanoid flesh drives it to
+attack travelers and explorers. Death dog saliva carries a foul disease that
+causes a victim's flesh to slowly rot off the bone.
 ```
+
 #### Deer
 
 ```
@@ -45036,10 +44986,8 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 2 (1d4) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit: _
+2 (1d4) piercing damage.
 
 #### Dire Wolf
 
@@ -45066,24 +45014,18 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1 (200 XP)
 
-**_Keen Hearing and Smell._** The wolf has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+**_Keen Hearing and Smell._** The wolf has advantage on Wisdom (Perception)
+checks that rely on hearing or smell.
 
-**_Pack Tactics.
-_** The wolf has advantage on an attack roll
-against a creature if at least one of the wolf's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The wolf has advantage on an attack roll against a
+creature if at least one of the wolf's allies is within 5 feet of the creature
+and the ally isn't incapacitated.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 10 (2d6 + 3) piercing damage. If the target is
-a creature, it must succeed on a DC 13 Strength saving
-throw or be knocked prone.
+**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit: _
+10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on
+a DC 13 Strength saving throw or be knocked prone.
 
 #### Draft Horse
 
@@ -45095,9 +45037,8 @@ _Large beast, unaligned_
 
 **Speed** 40 ft.
 
-###### STR DEX CON INT WIS CHA
-
-###### 18 (+4) 10 (+0) 12 (+1) 2 (-4) 11 (+0) 7 (-2)
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 12 (+1) 2 (-4) 11 (+0) 7 (-2)
 
 ```
 Senses passive Perception 10
@@ -45105,14 +45046,14 @@ Languages --
 Challenge
  1/4 (50 XP)
 ```
+
 ##### Actions
 
 ```
-Hooves. Melee Weapon Attack:
- +6 to hit, reach 5 ft.,
-one target.
- Hit: 9 (2d4 + 4) bludgeoning damage.
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 +
+4) bludgeoning damage.
 ```
+
 #### Eagle
 
 ```
@@ -45136,16 +45077,17 @@ Challenge
 ```
 
 ```
-Keen Sight. The eagle has advantage on Wisdom
-(Perception) checks that rely on sight.
+Keen Sight. The eagle has advantage on Wisdom (Perception) checks that rely on
+sight.
 ```
+
 ##### Actions
 
 ```
-Talons. Melee Weapon Attack: +4 to hit, reach 5 ft.,
-one target.
- Hit: 4 (1d4 + 2) slashing damage.
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 +
+2) slashing damage.
 ```
+
 #### Elephant
 
 ```
@@ -45167,23 +45109,19 @@ Challenge
  4 (1,100 XP)
 ```
 
-**_Trampling Charge._** If the elephant moves at least 20
-feet straight toward a creature and then hits it with a
-gore attack on the same turn, that target must succeed
-on a DC 12 Strength saving throw or be knocked prone.
-If the target is prone, the elephant can make one
-stomp attack against it as a bonus action.
+**_Trampling Charge._** If the elephant moves at least 20 feet straight toward
+a creature and then hits it with a gore attack on the same turn, that target
+must succeed on a DC 12 Strength saving throw or be knocked prone. If the
+target is prone, the elephant can make one stomp attack against it as a bonus
+action.
 
 ##### Actions
 
-**_Gore._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one
-target.
- _Hit:_ 19 (3d8 + 6) piercing damage.
+**_Gore._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_
+19 (3d8 + 6) piercing damage.
 
-**_Stomp._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft.,
-one prone creature.
- _Hit:_ 22 (3d10 + 6) bludgeoning
-damage.
+**_Stomp._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone
+creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
 
 #### Elk
 
@@ -45208,22 +45146,18 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1/4 (50 XP)
 
-**_Charge._** If the elk moves at least 20 feet straight
-toward a target and then hits it with a ram attack on
-the same turn, the target takes an extra 7 (2d6)
-damage. If the target is a creature, it must succeed on
-a DC 13 Strength saving throw or be knocked prone.
+**_Charge._** If the elk moves at least 20 feet straight toward a target and
+then hits it with a ram attack on the same turn, the target takes an extra 7
+(2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength
+saving throw or be knocked prone.
 
 ##### Actions
 
-**_Ram._** _Mel ee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target. _Hit:
-_ 6 (1d6 + 3) bludgeoning damage.
+**_Ram._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit: _
+6 (1d6 + 3) bludgeoning damage.
 
-**_Hooves._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft.,
-one prone creature.
- _Hit:_ 8 (2d4 + 3) bludgeoning
-damage.
+**_Hooves._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one prone
+creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
 #### Flying Snake
 
@@ -45236,9 +45170,8 @@ _Tiny beast, unaligned_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-###### STR DEX CON INT WIS CHA
-
-###### 4 (-3) 18 (+4) 11 (+0) 2 (-4) 12 (+1) 5 (-3)
+STR DEX CON INT WIS CHA
+4 (-3) 18 (+4) 11 (+0) 2 (-4) 12 (+1) 5 (-3)
 
 ```
 Senses blindsight 10 ft., passive Perception 11
@@ -45248,28 +45181,23 @@ Challenge
 ```
 
 ```
-Flyby. The snake doesn't provoke opportunity attacks
-when it flies out of an enemy's reach.
+Flyby. The snake doesn't provoke opportunity attacks when it flies out of an
+enemy's reach.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack:
- +6 to hit, reach 5 ft., one
-target.
- Hit:
- 1 piercing damage plus 7 (3d4) poison
-damage.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing
+damage plus 7 (3d4) poison damage.
 ```
 
 ```
-A
- flying snake is a brightly colored, winged serpent
-found in remote jungles. Tribespeople and cultists
-sometimes domesticate flying snakes to serve as
-messengers that deliver scrolls wrapped in their
-coils.
+A flying snake is a brightly colored, winged serpent found in remote jungles.
+Tribespeople and cultists sometimes domesticate flying snakes to serve as
+messengers that deliver scrolls wrapped in their coils.
 ```
+
 #### Frog
 
 ```
@@ -45294,20 +45222,15 @@ Challenge
 ```
 
 ```
-Amphibious. The frog can breathe air and water.
-Standing Leap.
- The frog's long jump is up to 10 feet
-and its high jump is up to 5 feet, with or without a
+Amphibious. The frog can breathe air and water. Standing Leap. The frog's long
+jump is up to 10 feet and its high jump is up to 5 feet, with or without a
 running start.
 ```
 
 ```
-A
- frog has no effective attacks. It feeds on small
-insects and typically dwells near water, in trees, or
-underground. The frog's statistics can also be used to
-represent a
- toad.
+A frog has no effective attacks. It feeds on small insects and typically
+dwells near water, in trees, or underground. The frog's statistics can also be
+used to represent a toad.
 ```
 
 #### Giant Ape
@@ -45339,14 +45262,11 @@ STR DEX CON INT WIS CHA
 
 **_Multiattack._** The ape makes two fist attacks.
 
-**_Fist._** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one
-target.
- _Hit:
+**_Fist._** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:
 _ 22 (3d10 + 6) bludgeoning damage.
 
-**_Rock._** _Ranged Weapon Attack:_ +9 to hit, range 50/100
-ft., one target.
- _Hit:_ 30 (7d6 + 6) bludgeoning damage.
+**_Rock._** _Ranged Weapon Attack:_ +9 to hit, range 50/100 ft., one target.
+_Hit:_ 30 (7d6 + 6) bludgeoning damage.
 
 #### Giant Badger
 
@@ -45364,29 +45284,26 @@ STR DEX CON INT WIS CHA
  10 (+0)
  15 (+2) 2 (-4) 12 (+1) 5 (-3)
 ```
-**Senses** darkvision 30 ft., passive Perception
- 11
+**Senses** darkvision 30 ft., passive Perception 11
 
 **Languages** --
 
 **Challenge
 ** 1/4 (50 XP)
 
-**_Keen Smell._** The badger has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The badger has advantage on Wisdom (Perception) checks that
+rely on smell.
 
 ##### Actions
 
-**_Multiattack._** The badger makes two attacks: one with
-its bite and one with its claws.
+**_Multiattack._** The badger makes two attacks: one with its bite and one with
+its claws.
 
-**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one
-target.
- _Hit:_ 4 (1d6 + 1) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4
+(1d6 + 1) piercing damage.
 
-**_Claws._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one
-target.
- _Hit:_ 6 (2d4 + 1) slashing damage.
+**_Claws._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_
+6 (2d4 + 1) slashing damage.
 
 #### Giant Bat
 
@@ -45410,10 +45327,10 @@ Challenge
 ```
 
 ```
-Echolocation. The bat can't use its blindsight while
-deafened.
-Keen Hearing. The bat has advantage on Wisdom
-(Perception) checks that rely on hearing.
+Echolocation. The bat can't use its blindsight while deafened.
+
+Keen Hearing. The bat has advantage on Wisdom (Perception) checks that rely on
+hearing.
 ```
 ##### Actions
 
@@ -45444,29 +45361,24 @@ Challenge
 ```
 
 ```
-Charge. If the boar moves at least 20 feet straight
-toward a target and then hits it with a tusk attack on
-the same turn, the target takes an extra 7 (2d6)
-slashing damage. If the target is a creature, it must
-succeed on a DC 13 Strength saving throw or be
-knocked prone.
-Relentless (Recharges after a Short or Long Rest).
- If
-the boar takes 10 damage or less that would reduce it
-to 0 hit points, it is reduced to 1 hit point instead.
+Charge. If the boar moves at least 20 feet straight toward a target and then
+hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6)
+slashing damage. If the target is a creature, it must succeed on a DC 13
+Strength saving throw or be knocked prone.
+
+Relentless (Recharges after a Short or Long Rest). If the boar takes 10 damage
+or less that would reduce it to 0 hit points, it is reduced to 1 hit point
+instead.
 ```
 
 ##### Actions
 
-**_Tusk._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 10 (2d6 + 3) slashing damage.
+**_Tusk._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit: _
+10 (2d6 + 3) slashing damage.
 
 #### Giant Centipede
 
-_Small beast, unaligned
-_
+_Small beast, unaligned _
 
 **Armor Class** 13 (natural armor)
 
@@ -45479,6 +45391,7 @@ STR DEX CON INT WIS CHA
 5 (-3) 14 (+2)
  12 (+1) 1 (-5) 7 (-2) 3 (-4)
 ```
+
 **Senses** blindsight 30 ft., passive Perception 8
 
 **Languages** --
@@ -45488,14 +45401,12 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-creature.
- _Hit:_ 4 (1d4 + 2) piercing damage, and the
-target must succeed on a DC 11 Constitution saving
-throw or take 10 (3d6) poison damage. If the poison
-damage reduces the target to 0 hit points, the target is
-stable but poisoned for 1 hour, even after regaining hit
-points, and is paralyzed while poisoned in this way.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_
+4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11
+Constitution saving throw or take 10 (3d6) poison damage. If the poison damage
+reduces the target to 0 hit points, the target is stable but poisoned for 1
+hour, even after regaining hit points, and is paralyzed while poisoned in this
+way.
 
 #### Giant Constrictor Snake
 
@@ -45535,9 +45446,10 @@ one creature.
 and the target is grappled (escape DC 16). Until this
 
 ```
-grapple ends, the creature is restrained, and the snake
-can't constrict another target.
+grapple ends, the creature is restrained, and the snake can't constrict another
+target.
 ```
+
 #### Giant Crab
 
 ```
@@ -45563,15 +45475,15 @@ Challenge
 ```
 Amphibious. The crab can breathe air and water.
 ```
+
 ##### Actions
 
 ```
-Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one
-target.
- Hit: 4 (1d6 + 1) bludgeoning damage, and the
-target is grappled (escape DC 11). The crab has two
+Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1)
+bludgeoning damage, and the target is grappled (escape DC 11). The crab has two
 claws, each of which can grapple only one target.
 ```
+
 #### Giant Crocodile
 
 ```
@@ -45595,29 +45507,24 @@ Challenge
 ```
 
 ```
-Hold Breath.
- The crocodile can hold its breath for 30
-minutes.
+Hold Breath. The crocodile can hold its breath for 30 minutes.
 ```
+
 ##### Actions
 
 ```
-Multiattack. The crocodile makes two attacks: one
-with its bite and one with its tail.
+Multiattack. The crocodile makes two attacks: one with its bite and one with
+its tail.
 ```
 
-**_Bite._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one
-target.
- _Hit:_ 21 (3d10 + 5) piercing damage, and the
-target is grappled (escape DC 16). Until this grapple
-ends, the target is restrained, and the crocodile can't
-bite another target.
+**_Bite._** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_
+21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until
+this grapple ends, the target is restrained, and the crocodile can't bite
+another target.
 
-**_Tail._** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one
-target not grappled by the crocodile. _ Hit:
-_ 14 (2d8 + 5)
-bludgeoning damage. If the target is a creature, it must
-succeed on a DC 16 Strength saving throw or be
+**_Tail._** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not
+grappled by the crocodile. _ Hit: _ 14 (2d8 + 5) bludgeoning damage. If the
+target is a creature, it must succeed on a DC 16 Strength saving throw or be
 knocked prone.
 
 #### Giant Eagle
@@ -45641,34 +45548,28 @@ STR DEX CON INT WIS CHA
 
 **Senses** passive Perception 14
 
-**Languages** Giant Eagle, understands Common and
-Auran but can't speak them
+**Languages** Giant Eagle, understands Common and Auran but can't speak them
 
 **Challenge
 ** 1 (200 XP)
 
-**_Keen Sight._** The eagle has advantage on Wisdom
-(Perception) checks that rely on sight.
+**_Keen Sight._** The eagle has advantage on Wisdom (Perception) checks that
+rely on sight.
 
 ##### Actions
 
-**_Multiattack._** The eagle makes two attacks: one with its
-beak and one with its talons.
+**_Multiattack._** The eagle makes two attacks: one with its beak and one with
+its talons.
 
-**_Beak._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
+**_Beak._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
  _Hit:_ 6 (1d6 + 3) piercing damage.
 
-**_Talons._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft.,
-one target.
+**_Talons._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
  _Hit:_ 10 (2d6 + 3) slashing damage.
 
-A
- **giant eagle** is a noble creature that speaks its own
-language and understands speech in the Common
-tongue. A mated pair of giant eagles typically has up
-to four eggs or young in their nest (treat the young
-as normal eagles).
+A **giant eagle** is a noble creature that speaks its own language and
+understands speech in the Common tongue. A mated pair of giant eagles typically
+has up to four eggs or young in their nest (treat the young as normal eagles).
 
 #### Giant Elk
 
@@ -45697,12 +45598,12 @@ Challenge
 ```
 
 ```
-Charge. If the elk moves at least 20 feet straight
-toward a target and then hits it with a ram attack on
-the same turn, the target takes an extra 7 (2d6)
-damage. If the target is a creature, it must succeed on
-a DC 14 Strength saving throw or be knocked prone.
+Charge. If the elk moves at least 20 feet straight toward a target and then
+hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)
+damage. If the target is a creature, it must succeed on a DC 14 Strength saving
+throw or be knocked prone.
 ```
+
 ##### Actions
 
 ```
