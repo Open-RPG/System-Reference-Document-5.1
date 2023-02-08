@@ -45717,15 +45717,13 @@ damage.
 ```
 
 ```
-The majestic
- giant elk is rare to the point that its
-appearance is often taken as a foreshadowing of an
-important event, such as the birth of a king. Legends
-tell of gods that take the form of giant elk when
-visiting the Material Plane. Many cultures therefore
-believe that to hunt these creatures is to invite
+The majestic giant elk is rare to the point that its appearance is often taken
+as a foreshadowing of an important event, such as the birth of a king. Legends
+tell of gods that take the form of giant elk when visiting the Material Plane.
+Many cultures therefore believe that to hunt these creatures is to invite
 divine wrath.
 ```
+
 #### Giant Fire Beetle
 
 ```
@@ -45748,26 +45746,20 @@ Challenge
 ```
 
 ```
-Illumination. The beetle sheds bright light in a 10-foot
-radius and dim light for an additional 10 feet.
+Illumination. The beetle sheds bright light in a 10-foot radius and dim light
+for an additional 10 feet.
 ```
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:
-_ +1 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 2 (1d6 - 1) slashing damage.
+**_Bite._** _Melee Weapon Attack: _ +1 to hit, reach 5 ft., one target.
+ _Hit: _ 2 (1d6 - 1) slashing damage.
 
-A
- **giant fire beetle** is a nocturnal creature that takes
-its name from a pair of glowing glands that give off
-light. Miners and adventurers prize these creatures,
-for a giant fire beetle's glands continue to shed light
-for 1d6 days after the beetle dies. Giant fire beetles
-are most commonly found underground and in dark
-forests.
+A **giant fire beetle** is a nocturnal creature that takes its name from a pair
+of glowing glands that give off light. Miners and adventurers prize these
+creatures, for a giant fire beetle's glands continue to shed light for 1d6 days
+after the beetle dies. Giant fire beetles are most commonly found underground
+and in dark forests.
 
 #### Giant Frog
 
@@ -45796,35 +45788,26 @@ STR DEX CON INT WIS CHA
 
 **_Amphibious._** The frog can breathe air and water.
 
-**_Standing Leap.
-_** The frog's long jump is up to 20 feet
-and its high jump is up to 10 feet, with or without a
-running start.
+**_Standing Leap. _** The frog's long jump is up to 20 feet and its high jump
+is up to 10 feet, with or without a running start.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one
-target.
- _Hit:_ 4 (1d6 + 1) piercing damage, and the target
-is grappled (escape DC 11). Until this grapple ends, the
-target is restrained, and the frog can't bite another
-target.
+**_Bite._** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target.
+_Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11).
+Until this grapple ends, the target is restrained, and the frog can't bite
+another target.
 
-**_Swallow.
-_** The frog makes one bite attack against a
-Small or smaller target it is grappling. If the attack hits,
-the target is swallowed, and the grapple ends. The
-swallowed target is blinded and restrained, it has total
-cover against attacks and other effects outside the frog,
-and it takes 5 (2d4) acid damage at the start of each of
-the frog's turns. The frog can have only one target
-swallowed at a time.
-If the frog dies, a swallowed creature is no longer
-restrained by it and can escape from the corpse using 5
+**_Swallow. _** The frog makes one bite attack against a Small or smaller
+target it is grappling. If the attack hits, the target is swallowed, and the
+grapple ends. The swallowed target is blinded and restrained, it has total
+cover against attacks and other effects outside the frog, and it takes 5 (2d4)
+acid damage at the start of each of the frog's turns. The frog can have only
+one target swallowed at a time.
 
-```
-feet of movement, exiting prone.
-```
+If the frog dies, a swallowed creature is no longer restrained by it and can
+escape from the corpse using 5 feet of movement, exiting prone.
+
 #### Giant Goat
 
 ```
@@ -45847,24 +45830,22 @@ Challenge
 ```
 
 ```
-Charge. If the goat moves at least 20 feet straight
-toward a target and then hits it with a ram attack on
-the same turn, the target takes an extra 5 (2d4)
-bludgeoning damage. If the target is a creature, it must
-succeed on a DC 13 Strength saving throw or be
-knocked prone.
-Sure-Footed. The goat has advantage on Strength and
-Dexterity saving throws made against effects that
-would knock it prone.
+Charge. If the goat moves at least 20 feet straight toward a target and then
+hits it with a ram attack on the same turn, the target takes an extra 5 (2d4)
+bludgeoning damage. If the target is a creature, it must succeed on a DC 13
+Strength saving throw or be knocked prone.
+
+Sure-Footed. The goat has advantage on Strength and Dexterity saving throws
+made against effects that would knock it prone.
 ```
+
 ##### Actions
 
 ```
-Ram. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-target.
- Hit:
- 8 (2d4 + 3) bludgeoning damage.
+Ram. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+ Hit: 8 (2d4 + 3) bludgeoning damage.
 ```
+
 #### Giant Hyena
 
 ```
@@ -45887,21 +45868,14 @@ Challenge
  1 (200 XP)
 ```
 
-```
-Rampage.
- When the hyena reduces a creature to 0 hit
-points with a melee attack on its turn, the hyena can
-```
-
-take a bonus action to move up to half its speed and
+Rampage. When the hyena reduces a creature to 0 hit points with a melee attack
+on its turn, the hyena can take a bonus action to move up to half its speed and
 make a bite attack.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 10 (2d6 + 3) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
+ _Hit: _ 10 (2d6 + 3) piercing damage.
 
 #### Giant Lizard
 
@@ -45928,16 +45902,12 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 6 (1d8 + 2) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.
+ _Hit: _ 6 (1d8 + 2) piercing damage.
 
-A
- **giant lizard** can be ridden or used as a draft
-animal. Lizardfolk also keep them as pets, and
-subterranean giant lizards are used as mounts and
-pack animals by drow, duergar, and others.
+A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also
+keep them as pets, and subterranean giant lizards are used as mounts and pack
+animals by drow, duergar, and others.
 
 #### Giant Octopus
 
@@ -45964,35 +45934,30 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1 (200 XP)
 
-**_Hold Breath._** While out of water, the octopus can hold
-its breath for 1 hour.
+**_Hold Breath._** While out of water, the octopus can hold its breath for 1
+hour.
 
 ```
-Underwater Camouflage.
- The octopus has advantage
-on Dexterity (Stealth) checks made while underwater.
-Water Breathing.
- The octopus can breathe only
-underwater.
+Underwater Camouflage. The octopus has advantage on Dexterity (Stealth) checks
+made while underwater.
+
+Water Breathing. The octopus can breathe only underwater.
 ```
+
 ##### Actions
 
 ```
-Tentacles. Melee Weapon Attack:
- +5 to hit, reach 15 ft.,
-one target.
- Hit: 10 (2d6 + 3) bludgeoning damage. If
-the target is a creature, it is grappled (escape DC 16).
-Until this grapple ends, the target is restrained, and the
-octopus can't use its tentacles on another target.
-Ink Cloud (Recharges after a Short or Long Rest). A
- 20 -
-foot-radius cloud of ink extends all around the octopus
-if it is underwater. The area is heavily obscured for 1
-minute, although a significant current can disperse the
-ink. After releasing the ink, the octopus can use the
-Dash action as a bonus action.
+Tentacles. Melee Weapon Attack: +5 to hit, reach 15 ft., one target.
+ Hit: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is
+ grappled (escape DC 16). Until this grapple ends, the target is restrained,
+ and the octopus can't use its tentacles on another target.
+
+Ink Cloud (Recharges after a Short or Long Rest). A 20 - foot-radius cloud of
+ink extends all around the octopus if it is underwater. The area is heavily
+obscured for 1 minute, although a significant current can disperse the ink.
+After releasing the ink, the octopus can use the Dash action as a bonus action.
 ```
+
 #### Giant Owl
 
 ```
@@ -46017,24 +45982,23 @@ Challenge
 ```
 
 ```
-Flyby. The owl doesn't provoke opportunity attacks
-when it flies out of an enemy's reach.
-Keen Hearing and Sight. The owl has advantage on
-Wisdom (Perception) checks that rely on hearing or
-sight.
+Flyby. The owl doesn't provoke opportunity attacks when it flies out of an
+enemy's reach.
+
+Keen Hearing and Sight. The owl has advantage on Wisdom (Perception) checks
+that rely on hearing or sight.
 ```
+
 ##### Actions
 
 ```
-Talons. Melee Weapon Attack: +3 to hit, reach 5 ft.,
-one target.
+Talons. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
  Hit: 8 (2d6 + 1) slashing damage.
 ```
 
 ```
-Giant owls often befriend fey and other sylvan
-creatures and are guardians of their woodland
-realms.
+Giant owls often befriend fey and other sylvan creatures and are guardians of
+their woodland realms.
 ```
 
 #### Giant Poisonous Snake
@@ -46063,17 +46027,14 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one
-target.
- _Hit:_ 6 (1d4 + 4) piercing damage, and the target
-must make a DC 11 Constitution saving throw, taking
-10 (3d6) poison damage on a failed save, or half as
-much damage on a successful one.
+**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target.
+ _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11
+ Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or
+ half as much damage on a successful one.
 
 #### Giant Rat
 
-_Small beast, unaligned
-_
+_Small beast, unaligned _
 
 **Armor Class** 12
 
@@ -46093,39 +46054,33 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1/8 (25 XP)
 
-**_Keen Smell._** The rat has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The rat has advantage on Wisdom (Perception) checks that rely
+on smell.
 
-**_Pack Tactics.
-_** The rat has advantage on an attack roll
-against a creature if at least one of the rat's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The rat has advantage on an attack roll against a creature
+if at least one of the rat's allies is within 5 feet of the creature and the
+ally isn't incapacitated.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 4 (1d4 + 2) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit: _
+4 (1d4 + 2) piercing damage.
 
 ##### Variant: Diseased Giant Rats
 
 ```
-Some giant rats carry vile diseases that they spread with their
-bites. A diseased giant rat has a challenge rating of 1/8 (25
-XP) and the following action instead of its normal bite attack.
-Bite. Melee Weapon Attack:
- +4 to hit, reach 5 ft., one
-target.
- Hit: 4 (1d4 + 2) piercing damage. If the target is a
-creature, it must succeed on a DC 10 Constitution saving
-throw or contract a disease. Until the disease is cured, the
-target can't regain hit points except by magical means, and
-the target's hit point maximum decreases by 3 (1d6) every 24
-hours. If the target's hit point maximum drops to 0 as a result
-of this disease, the target dies.
+Some giant rats carry vile diseases that they spread with their bites. A
+diseased giant rat has a challenge rating of 1/8 (25 XP) and the following
+action instead of its normal bite attack. Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+ Hit: 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed
+ on a DC 10 Constitution saving throw or contract a disease. Until the disease
+ is cured, the target can't regain hit points except by magical means, and the
+ target's hit point maximum decreases by 3 (1d6) every 24 hours. If the
+ target's hit point maximum drops to 0 as a result of this disease, the target
+ dies.
 ```
+
 #### Giant Scorpion
 
 ```
@@ -46146,24 +46101,22 @@ Languages --
 Challenge
  3 (700 XP)
 ```
+
 ##### Actions
 
 ```
-Multiattack. The scorpion makes three attacks: two
-with its claws and one with its sting.
-Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
- Hit: 6 (1d8 + 2) bludgeoning damage, and the
-target is grappled (escape DC 12). The scorpion has two
-claws, each of which can grapple only one target.
-Sting. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-creature.
- Hit:
- 7 (1d10 + 2) piercing damage, and the
-target must make a DC 12 Constitution saving throw,
-taking 22 (4d10) poison damage on a failed save, or
-half as much damage on a successful one.
+Multiattack. The scorpion makes three attacks: two with its claws and one with
+its sting. Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+ Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC
+ 12). The scorpion has two claws, each of which can grapple only one target.
+ Sting. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+ Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12
+ Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or
+ half as much damage on a successful one.
 ```
+
 #### Giant Sea Horse
 
 ```
@@ -46186,16 +46139,12 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1/2 (100 XP)
 
-**_Charge._** If the sea horse moves at least 20 feet straight
-toward a target and then hits it with a ram attack on
-the same turn, the target takes an extra 7 (2d6)
-bludgeoning damage. It the target is a creature, it must
-succeed on a DC 11 Strength saving throw or be
-knocked prone.
+**_Charge._** If the sea horse moves at least 20 feet straight toward a target
+and then hits it with a ram attack on the same turn, the target takes an extra
+7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a
+DC 11 Strength saving throw or be knocked prone.
 
-**_Water Breathing.
-_** The sea horse can breathe only
-underwater.
+**_Water Breathing. _** The sea horse can breathe only underwater.
 
 ##### Actions
 
@@ -46204,10 +46153,8 @@ target.
  _Hit:
 _ 4 (1d6 + 1) bludgeoning damage.
 
-Like their smaller kin,
- **giant sea horses** are shy,
-colorful fish with elongated bodies and curled tails.
-Aquatic elves train them as mounts.
+Like their smaller kin, **giant sea horses** are shy, colorful fish with
+elongated bodies and curled tails. Aquatic elves train them as mounts.
 
 #### Giant Shark
 
@@ -46235,28 +46182,22 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 5 (1,800 XP)
 
-**_Blood Frenzy.
-_** The shark has advantage on melee attack
-rolls against any creature that doesn't have all its hit
-points.
+**_Blood Frenzy. _** The shark has advantage on melee attack rolls against any
+creature that doesn't have all its hit points.
 
-**_Water Breathing.
-_** The shark can breathe only
-underwater.
+**_Water Breathing. _** The shark can breathe only underwater.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 22 (3d10 + 6) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target.
+ _Hit: _ 22 (3d10 + 6) piercing damage.
 
 ```
-A
- giant shark is 30 feet long and normally found in
-deep oceans. Utterly fearless, it preys on anything
-that crosses its path, including whales and ships.
+A giant shark is 30 feet long and normally found in deep oceans. Utterly
+fearless, it preys on anything that crosses its path, including whales and
+ships.
 ```
+
 #### Giant Spider
 
 ```
@@ -46281,46 +46222,35 @@ Challenge
 ```
 
 ```
-Spider Climb.
- The spider can climb difficult surfaces,
-including upside down on ceilings, without needing to
-make an ability check.
-Web Sense. While in contact with a web, the spider
-knows the exact location of any other creature in
-contact with the same web.
-Web Walker. The spider ignores movement restrictions
+Spider Climb. The spider can climb difficult surfaces, including upside down on
+ceilings, without needing to make an ability check. Web Sense. While in contact
+with a web, the spider knows the exact location of any other creature in
+contact with the same web. Web Walker. The spider ignores movement restrictions
 caused by webbing.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-creature.
- Hit: 7 (1d8 + 3) piercing damage, and the
-target must make a DC 11 Constitution saving throw,
-taking 9 (2d8) poison damage on a failed save, or half
-as much damage on a successful one. If the poison
-damage reduces the target to 0 hit points, the target is
-stable but poisoned for 1 hour, even after regaining hit
-points, and is paralyzed while poisoned in this way.
-Web (Recharge 5-6).
- Ranged Weapon Attack: +5 to hit,
-range 30/60 ft., one creature. Hit: The target is
-restrained by webbing. As an action, the restrained
-target can make a DC 12 Strength check, bursting the
-webbing on a success. The webbing can also be
-attacked and destroyed (AC 10; hp 5; vulnerability to
-fire damage; immunity to bludgeoning, poison, and
-psychic damage).
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+ Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 11
+ Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or
+ half as much damage on a successful one. If the poison damage reduces the
+ target to 0 hit points, the target is stable but poisoned for 1 hour, even
+ after regaining hit points, and is paralyzed while poisoned in this way. Web
+ (Recharge 5-6).
+
+ Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The
+ target is restrained by webbing. As an action, the restrained target can make
+ a DC 12 Strength check, bursting the webbing on a success. The webbing can
+ also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;
+ immunity to bludgeoning, poison, and psychic damage).
 ```
 
-To snare its prey, a
- **giant spider** spins elaborate
-webs or shoots sticky strands of webbing from its
-abdomen. Giant spiders are most commonly found
-underground, making their lairs on ceilings or in
-dark, web-filled crevices. Such lairs are often
-festooned with web cocoons holding past victims.
+To snare its prey, a **giant spider** spins elaborate webs or shoots sticky
+strands of webbing from its abdomen. Giant spiders are most commonly found
+underground, making their lairs on ceilings or in dark, web-filled crevices.
+Such lairs are often festooned with web cocoons holding past victims.
 
 #### Giant Toad
 
@@ -46347,32 +46277,25 @@ STR DEX CON INT WIS CHA
 
 **_Amphibious._** The toad can breathe air and water.
 
-**_Standing Leap.
-_** The toad's long jump is up to 20 feet
-and its high jump is up to 10 feet, with or without a
-running start.
+**_Standing Leap. _** The toad's long jump is up to 20 feet and its high jump
+is up to 10 feet, with or without a running start.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-target.
- _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10)
-poison damage, and the target is grappled (escape DC
-13). Until this grapple ends, the target is restrained,
-and the toad can't bite another target.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.
+ _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the
+ target is grappled (escape DC 13). Until this grapple ends, the target is
+ restrained, and the toad can't bite another target.
 
-**_Swallow.
-_** The toad makes one bite attack against a
-Medium or smaller target it is grappling. If the attack
-hits, the target is swallowed, and the grapple ends. The
-swallowed target is blinded and restrained, it has total
-cover against attacks and other effects outside the
-toad, and it takes 10 (3d6) acid damage at the start of
-each of the toad's turns. The toad can have only one
-target swallowed at a time.
-If the toad dies, a swallowed creature is no longer
-restrained by it and can escape from the corpse using 5
-feet of movement, exiting prone.
+**_Swallow. _** The toad makes one bite attack against a Medium or smaller
+target it is grappling. If the attack hits, the target is swallowed, and the
+grapple ends. The swallowed target is blinded and restrained, it has total
+cover against attacks and other effects outside the toad, and it takes 10 (3d6)
+acid damage at the start of each of the toad's turns. The toad can have only
+one target swallowed at a time.
+
+If the toad dies, a swallowed creature is no longer restrained by it and can
+escape from the corpse using 5 feet of movement, exiting prone.
 
 #### Giant Vulture
 
@@ -46400,37 +46323,31 @@ Challenge
 ```
 
 ```
-Keen Sight and Smell. The vulture has advantage on
-Wisdom (Perception) checks that rely on sight or smell.
-Pack Tactics.
- The vulture has advantage on an attack
-roll against a creature if at least one of the vulture's
-allies is within 5 feet of the creature and the ally isn't
-incapacitated.
+Keen Sight and Smell. The vulture has advantage on Wisdom (Perception) checks
+that rely on sight or smell.
+
+Pack Tactics. The vulture has advantage on an attack roll against a creature if
+at least one of the vulture's allies is within 5 feet of the creature and the
+ally isn't incapacitated.
 ```
+
 ##### Actions
 
 ```
-Multiattack. The vulture makes two attacks: one with
-its beak and one with its talons.
-Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
- Hit:
- 7 (2d4 + 2) piercing damage.
-Talons. Melee Weapon Attack: +4 to hit, reach 5 ft.,
-one target.
- Hit:
- 9 (2d6 + 2) slashing damage.
+Multiattack. The vulture makes two attacks: one with its beak and one with its
+talons. Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+ Hit: 7 (2d4 + 2) piercing damage.
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+ Hit: 9 (2d6 + 2) slashing damage.
 ```
 
 ```
-A
- giant vulture has advanced intelligence and a
-malevolent bent. Unlike its smaller kin, it will attack
-a wounded creature to hasten its end. Giant vultures
-have been known to haunt a thirsty, starving
-creature for days to enjoy its suffering.
+A giant vulture has advanced intelligence and a malevolent bent. Unlike its
+smaller kin, it will attack a wounded creature to hasten its end. Giant
+vultures have been known to haunt a thirsty, starving creature for days to
+enjoy its suffering.
 ```
+
 #### Giant Wasp
 
 ```
@@ -46454,18 +46371,13 @@ Challenge
 ##### Actions
 
 ```
-Sting. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-creature.
- Hit:
- 5 (1d6 + 2) piercing damage, and the
+Sting. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+ Hit: 5 (1d6 + 2) piercing damage, and the target must make a DC 11
+ Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or
+ half as much damage on a successful one. If the poison damage reduces the
+ target to 0 hit points, the target is stable but poisoned for 1 hour, even
+ after regaining hit points, and is paralyzed while poisoned in this way.
 ```
-
-target must make a DC 11 Constitution saving throw,
-taking 10 (3d6) poison damage on a failed save, or half
-as much damage on a successful one. If the poison
-damage reduces the target to 0 hit points, the target is
-stable but poisoned for 1 hour, even after regaining hit
-points, and is paralyzed while poisoned in this way.
 
 #### Giant Weasel
 
@@ -46492,14 +46404,12 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 1/8 (25 XP)
 
-**_Keen Hearing and Smell._** The weasel has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+**_Keen Hearing and Smell._** The weasel has advantage on Wisdom (Perception)
+checks that rely on hearing or smell.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
+**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
  _Hit:_ 5 (1d4 + 3) piercing damage.
 
 #### Giant Wolf Spider
@@ -46529,36 +46439,31 @@ Perception 13
 ** 1/4 (50 XP)
 
 ```
-Spider Climb.
- The spider can climb difficult surfaces,
-including upside down on ceilings, without needing to
-make an ability check.
-Web Sense. While in contact with a web, the spider
-knows the exact location of any other creature in
-contact with the same web.
-Web Walker. The spider ignores movement restrictions
-caused by webbing.
+Spider Climb. The spider can climb difficult surfaces, including upside down on
+ceilings, without needing to make an ability check.
+
+Web Sense. While in contact with a web, the spider knows the exact location of
+any other creature in contact with the same web.
+
+Web Walker. The spider ignores movement restrictions caused by webbing.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one
-creature.
- Hit: 4 (1d6 + 1) piercing damage, and the
-target must make a DC 11 Constitution saving throw,
-taking 7 (2d6) poison damage on a failed save, or half
-as much damage on a successful one. If the poison
-damage reduces the target to 0 hit points, the target is
-stable but poisoned for 1 hour, even after regaining hit
-points, and is paralyzed while poisoned in this way.
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+ Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11
+ Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or
+ half as much damage on a successful one. If the poison damage reduces the
+ target to 0 hit points, the target is stable but poisoned for 1 hour, even
+ after regaining hit points, and is paralyzed while poisoned in this way.
 ```
 
 ```
-Smaller than a giant spider, a
- giant wolf spider
-hunts prey across open ground or hides in a burrow
-or crevice, or in a hidden cavity beneath debris.
+Smaller than a giant spider, a giant wolf spider hunts prey across open ground
+or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 ```
+
 #### Goat
 
 ```
@@ -46581,24 +46486,19 @@ Challenge
 ```
 
 ```
-Charge. If the goat moves at least 20 feet straight
-toward a target and then hits it with a ram attack on
-the same turn, the target takes an extra 2 (1d4)
-bludgeoning damage. If the target is a creature, it must
-succeed on a DC 10 Strength saving throw or be
-knocked prone.
-Sure-Footed. The goat has advantage on Strength and
-Dexterity saving throws made against effects that
-would knock it prone.
+Charge. If the goat moves at least 20 feet straight toward a target and then
+hits it with a ram attack on the same turn, the target takes an extra 2 (1d4)
+bludgeoning damage. If the target is a creature, it must succeed on a DC 10
+Strength saving throw or be knocked prone.
+
+Sure-Footed. The goat has advantage on Strength and Dexterity saving throws
+made against effects that would knock it prone.
 ```
 
 ##### Actions
 
-**_Ram._** _Melee Weapon Attack:
-_ +3 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 3 (1d4 + 1) bludgeoning damage.
+**_Ram._** _Melee Weapon Attack: _ +3 to hit, reach 5 ft., one target.
+ _Hit: _ 3 (1d4 + 1) bludgeoning damage.
 
 #### Hawk
 
@@ -46624,15 +46524,13 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Keen Sight._** The hawk has advantage on Wisdom
-(Perception) checks that rely on sight.
+**_Keen Sight._** The hawk has advantage on Wisdom (Perception) checks that
+rely on sight.
 
 ##### Actions
 
-**_Talons._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft.,
-one target.
- _Hit:
-_ 1 slashing damage.
+**_Talons._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
+ _Hit: _ 1 slashing damage.
 
 #### Hunter Shark
 
@@ -46659,32 +46557,24 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 2 (450 XP)
 
-**_Blood Frenzy.
-_** The shark has advantage on melee attack
-rolls against any creature that doesn't have all its hit
-points.
+**_Blood Frenzy. _** The shark has advantage on melee attack rolls against any
+creature that doesn't have all its hit points.
 
-**_Water Breathing.
-_** The shark can breathe only
-underwater.
+**_Water Breathing. _** The shark can breathe only underwater.
 
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one
-target.
- Hit:
- 13 (2d8 + 4) piercing damage.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+ Hit: 13 (2d8 + 4) piercing damage.
 ```
 
 ```
-Smaller than a giant shark but larger and fiercer
-than a reef shark, a
- hunter shark haunts deep
-waters. It usually hunts alone, but multiple hunter
-sharks might feed in the same area. A fully grown
-hunter shark is 15 to 20 feet long.
+Smaller than a giant shark but larger and fiercer than a reef shark, a hunter
+shark haunts deep waters. It usually hunts alone, but multiple hunter sharks
+might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 ```
+
 #### Hyena
 
 ```
@@ -46708,21 +46598,18 @@ Challenge
 ```
 
 ```
-Pack Tactics.
- The hyena has advantage on an attack
-roll against a creature if at least one of the hyena's
-allies is within 5 feet of the creature and the ally isn't
-incapacitated.
+Pack Tactics. The hyena has advantage on an attack roll against a creature if
+at least one of the hyena's allies is within 5 feet of the creature and the
+ally isn't incapacitated.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack:
- +2 to hit, reach 5 ft., one
-target.
- Hit:
- 3 (1d6) piercing damage.
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+ Hit: 3 (1d6) piercing damage.
 ```
+
 #### Jackal
 
 ```
@@ -46746,22 +46633,17 @@ Challenge
  0 (10 XP)
 ```
 
-**_Keen Hearing and Smell._** The jackal has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+**_Keen Hearing and Smell._** The jackal has advantage on Wisdom (Perception)
+checks that rely on hearing or smell.
 
-**_Pack Tactics.
-_** The jackal has advantage on an attack roll
-against a creature if at least one of the jackal's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The jackal has advantage on an attack roll against a
+creature if at least one of the jackal's allies is within 5 feet of the
+creature and the ally isn't incapacitated.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 1 (1d4 - 1) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target.
+ _Hit: _ 1 (1d4 - 1) piercing damage.
 
 #### Killer Whale
 
@@ -46790,20 +46672,16 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 3 (700 XP)
 
-**_Echolocation._** The whale can't use its blindsight while
-deafened.
+**_Echolocation._** The whale can't use its blindsight while deafened.
 
-**_Hold Breath.
-_** The whale can hold its breath for 30
-minutes.
+**_Hold Breath. _** The whale can hold its breath for 30 minutes.
 
-**_Keen Hearing._** The whale has advantage on Wisdom
-(Perception) checks that rely on hearing.
+**_Keen Hearing._** The whale has advantage on Wisdom (Perception) checks that
+rely on hearing.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one
-target.
+**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target.
  _Hit:_ 21 (5d6 + 4) piercing damage.
 
 #### Lion
@@ -46832,34 +46710,30 @@ Challenge
 ```
 
 ```
-Keen Smell. The lion has advantage on Wisdom
-(Perception) checks that rely on smell.
-Pack Tactics.
- The lion has advantage on an attack roll
-against a creature if at least one of the lion's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
-Pounce. If the lion moves at least 20 feet straight
-toward a creature and then hits it with a claw attack on
-the same turn, that target must succeed on a DC 13
-Strength saving throw or be knocked prone. If the
-target is prone, the lion can make one bite attack
-against it as a bonus action.
-Running Leap.
- With a 10-foot running start, the lion
-can long jump up to 25 feet.
+Keen Smell. The lion has advantage on Wisdom (Perception) checks that rely on
+smell.
+
+Pack Tactics. The lion has advantage on an attack roll against a creature if at
+least one of the lion's allies is within 5 feet of the creature and the ally
+isn't incapacitated.
+
+Pounce. If the lion moves at least 20 feet straight toward a creature and then
+hits it with a claw attack on the same turn, that target must succeed on a DC
+13 Strength saving throw or be knocked prone. If the target is prone, the lion
+can make one bite attack against it as a bonus action.
+
+Running Leap. With a 10-foot running start, the lion can long jump up to 25
+feet.
 ```
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-target.
- Hit:
- 7 (1d8 + 3) piercing damage.
-Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-target.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+ Hit: 7 (1d8 + 3) piercing damage.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
  Hit: 6 (1d6 + 3) slashing damage.
 ```
+
 #### Lizard
 
 ```
@@ -46880,13 +46754,12 @@ Languages --
 Challenge
  0 (10 XP)
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one
-target.
- Hit:
- 1 piercing damage.
+Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
+ Hit: 1 piercing damage.
 ```
 
 #### Mammoth
@@ -46910,30 +46783,23 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 6 (2,300 XP)
 
-**_Trampling Charge._** If the mammoth moves at least 20
-feet straight toward a creature and then hits it with a
-gore attack on the same turn, that target must succeed
-on a DC 18 Strength saving throw or be knocked prone.
-If the target is prone, the mammoth can make one
-stomp attack against it as a bonus action.
+**_Trampling Charge._** If the mammoth moves at least 20 feet straight toward a
+creature and then hits it with a gore attack on the same turn, that target must
+succeed on a DC 18 Strength saving throw or be knocked prone. If the target is
+prone, the mammoth can make one stomp attack against it as a bonus action.
 
 ##### Actions
 
-**_Gore._** _Melee Weapon Attack:_ +10 to hit, reach 10 ft.,
-one target.
- _Hit:
-_ 25 (4d8 + 7) piercing damage.
+**_Gore._** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target.
+ _Hit: _ 25 (4d8 + 7) piercing damage.
 
-**_Stomp._** _Melee Weapon Attack:_ +10 to hit, reach 5 ft.,
-one prone creature.
- _Hit:_ 29 (4d10 + 7) bludgeoning
-damage.
+**_Stomp._** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone
+creature.
+ _Hit:_ 29 (4d10 + 7) bludgeoning damage.
 
-A
- **mammoth** is an elephantine creature with thick
-fur and long tusks. Stockier and fiercer than normal
-elephants, mammoths inhabit a wide range of climes,
-from subarctic to subtropical.
+A **mammoth** is an elephantine creature with thick fur and long tusks.
+Stockier and fiercer than normal elephants, mammoths inhabit a wide range of
+climes, from subarctic to subtropical.
 
 #### Mastiff
 
@@ -46961,28 +46827,24 @@ STR DEX CON INT WIS CHA
 ** 1/8 (25 XP)
 
 ```
-Keen Hearing and Smell. The mastiff has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+Keen Hearing and Smell. The mastiff has advantage on Wisdom (Perception) checks
+that rely on hearing or smell.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one
-target.
- Hit:
- 4 (1d6 + 1) piercing damage. If the target is
-a creature, it must succeed on a DC 11 Strength saving
-throw or be knocked prone.
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+ Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
+ on a DC 11 Strength saving throw or be knocked prone.
 ```
 
 ```
-Mastiffs are impressive hounds prized by
-humanoids for their loyalty and keen senses.
-Mastiffs can be trained as guard dogs, hunting dogs,
-and war dogs. Halflings and other Small humanoids
-ride them as mounts.
+Mastiffs are impressive hounds prized by humanoids for their loyalty and keen
+senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs.
+Halflings and other Small humanoids ride them as mounts.
 ```
+
 #### Mule
 
 ```
@@ -47005,21 +46867,20 @@ Challenge
 ```
 
 ```
-Beast of Burden. The mule is considered to be a Large
-animal for the purpose of determining its carrying
-capacity.
-Sure-Footed. The mule has advantage on Strength and
-Dexterity saving throws made against effects that
-would knock it prone.
+Beast of Burden. The mule is considered to be a Large animal for the purpose of
+determining its carrying capacity.
+
+Sure-Footed. The mule has advantage on Strength and Dexterity saving throws
+made against effects that would knock it prone.
 ```
+
 ##### Actions
 
 ```
-Hooves. Melee Weapon Attack: +2 to hit, reach 5 ft.,
-one target.
- Hit:
- 4 (1d4 + 2) bludgeoning damage.
+Hooves. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+ Hit: 4 (1d4 + 2) bludgeoning damage.
 ```
+
 #### Octopus
 
 ```
@@ -47043,31 +46904,24 @@ Speed 5 ft., swim 30 ft.
 **Challenge
 ** 0 (10 XP)
 
-**_Hold Breath._** While out of water, the octopus can hold
-its breath for 30 minutes.
+**_Hold Breath._** While out of water, the octopus can hold its breath for 30
+minutes.
 
-**_Underwater Camouflage.
-_** The octopus has advantage
-on Dexterity (Stealth) checks made while underwater.
+**_Underwater Camouflage. _** The octopus has advantage on Dexterity (Stealth)
+checks made while underwater.
 
-**_Water Breathing.
-_** The octopus can breathe only
-underwater.
+**_Water Breathing. _** The octopus can breathe only underwater.
 
 ##### Actions
 
-**_Tentacles._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft.,
-one target.
- _Hit:_ 1 bludgeoning damage, and the target
-is grappled (escape DC 10). Until this grapple ends, the
-octopus can't use its tentacles on another target.
+**_Tentacles._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.
+ _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until
+ this grapple ends, the octopus can't use its tentacles on another target.
 
-**_Ink Cloud (Recharges after a Short or Long Rest)._** A 5-
-foot-radius cloud of ink extends all around the octopus
-if it is underwater. The area is heavily obscured for 1
-minute, although a significant current can disperse the
-ink. After releasing the ink, the octopus can use the
-Dash action as a bonus action.
+**_Ink Cloud (Recharges after a Short or Long Rest)._** A 5- foot-radius cloud
+of ink extends all around the octopus if it is underwater. The area is heavily
+obscured for 1 minute, although a significant current can disperse the ink.
+After releasing the ink, the octopus can use the Dash action as a bonus action.
 
 #### Owl
 
@@ -47092,21 +46946,19 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Flyby._** The owl doesn't provoke opportunity attacks
-when it flies out of an enemy's reach.
+**_Flyby._** The owl doesn't provoke opportunity attacks when it flies out of
+an enemy's reach.
 
-**_Keen Hearing and Sight._** The owl has advantage on
-Wisdom (Perception) checks that rely on hearing or
-sight.
+**_Keen Hearing and Sight._** The owl has advantage on Wisdom (Perception)
+checks that rely on hearing or sight.
 
 ##### Actions
 
 ```
-Talons. Melee Weapon Attack: +3 to hit, reach 5 ft.,
-one target.
- Hit:
- 1 slashing damage.
+Talons. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+ Hit: 1 slashing damage.
 ```
+
 #### Panther
 
 ```
@@ -47130,27 +46982,24 @@ Challenge
 ```
 
 ```
-Keen Smell. The panther has advantage on Wisdom
-(Perception) checks that rely on smell.
-Pounce. If the panther moves at least 20 feet straight
-toward a creature and then hits it with a claw attack on
-the same turn, that target must succeed on a DC 12
-Strength saving throw or be knocked prone. If the
-target is prone, the panther can make one bite attack
-against it as a bonus action.
+Keen Smell. The panther has advantage on Wisdom (Perception) checks that rely
+on smell.
+
+Pounce. If the panther moves at least 20 feet straight toward a creature and
+then hits it with a claw attack on the same turn, that target must succeed on a
+DC 12 Strength saving throw or be knocked prone. If the target is prone, the
+panther can make one bite attack against it as a bonus action.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
- Hit:
- 5 (1d6 + 2) piercing damage.
-Claw. Melee Weapon Attack:
- +4 to hit, reach 5 ft., one
-target.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+ Hit: 5 (1d6 + 2) piercing damage. Claw. Melee Weapon Attack: +4 to hit, reach
+ 5 ft., one target.
  Hit: 4 (1d4 + 2) slashing damage.
 ```
+
 #### Phase Spider
 
 ```
@@ -47178,33 +47027,24 @@ Languages --
 magically shift from the Material Plane to the Ethereal
 Plane, or vice versa.
 
-**_Spider Climb.
-_** The spider can climb difficult surfaces,
-including upside down on ceilings, without needing to
-make an ability check.
+**_Spider Climb. _** The spider can climb difficult surfaces, including upside
+down on ceilings, without needing to make an ability check.
 
-**_Web Walker._** The spider ignores movement restrictions
-caused by webbing.
+**_Web Walker._** The spider ignores movement restrictions caused by webbing.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-creature.
- _Hit:_ 7 (1d10 + 2) piercing damage, and the
-target must make a DC 11 Constitution saving throw,
-taking 18 (4d8) poison damage on a failed save, or half
-as much damage on a successful one. If the poison
-damage reduces the target to 0 hit points, the target is
-stable but poisoned for 1 hour, even after regaining hit
-points, and is paralyzed while poisoned in this way.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature.
+ _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 11
+ Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or
+ half as much damage on a successful one. If the poison damage reduces the
+ target to 0 hit points, the target is stable but poisoned for 1 hour, even
+ after regaining hit points, and is paralyzed while poisoned in this way.
 
-A
- **phase spider** possesses the magical ability to
-phase in and out of the Ethereal Plane. It seems to
-appear out of nowhere and quickly vanishes after
-attacking. Its movement on the Ethereal Plane before
-coming back to the Material Plane makes it seem like
-it can teleport.
+A **phase spider** possesses the magical ability to phase in and out of the
+Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after
+attacking. Its movement on the Ethereal Plane before coming back to the
+Material Plane makes it seem like it can teleport.
 
 #### Poisonous Snake
 
@@ -47230,14 +47070,10 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:
-_ +5 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 1 piercing damage, and the target must
-make a DC 10 Constitution saving throw, taking 5 (2d4)
-poison damage on a failed save, or half as much
-damage on a successful one.
+**_Bite._** _Melee Weapon Attack: _ +5 to hit, reach 5 ft., one target.
+ _Hit: _ 1 piercing damage, and the target must make a DC 10 Constitution
+ saving throw, taking 5 (2d4) poison damage on a failed save, or half as much
+ damage on a successful one.
 
 #### Polar Bear
 
@@ -47262,9 +47098,10 @@ Challenge
 ```
 
 ```
-Keen Smell. The bear has advantage on Wisdom
-(Perception) checks that rely on smell.
+Keen Smell. The bear has advantage on Wisdom (Perception) checks that rely on
+smell.
 ```
+
 ##### Actions
 
 ```
@@ -47299,13 +47136,12 @@ Languages --
 Challenge
  1/8 (25 XP)
 ```
+
 ##### Actions
 
 ```
-Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft.,
-one target.
- Hit:
- 7 (2d4 + 2) bludgeoning damage.
+Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+ Hit: 7 (2d4 + 2) bludgeoning damage.
 ```
 
 #### Quipper
@@ -47329,14 +47165,10 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Blood Frenzy.
-_** The quipper has advantage on melee
-attack rolls against any creature that doesn't have all
-its hit points.
+**_Blood Frenzy. _** The quipper has advantage on melee attack rolls against
+any creature that doesn't have all its hit points.
 
-**_Water Breathing.
-_** The quipper can breathe only
-underwater.
+**_Water Breathing. _** The quipper can breathe only underwater.
 
 ##### Actions
 
@@ -47344,17 +47176,14 @@ underwater.
 target.
  _Hit:_ 1 piercing damage.
 
-A
- **quipper** is a carnivorous fish with sharp teeth.
-Quippers can adapt to any aquatic environment,
-including cold subterranean lakes. They frequently
-gather in swarms; the statistics for a swarm of
-quippers appear later in this appendix.
+A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any
+aquatic environment, including cold subterranean lakes. They frequently gather
+in swarms; the statistics for a swarm of quippers appear later in this
+appendix.
 
 #### Rat
 
-_Tiny beast, unaligned
-_
+_Tiny beast, unaligned _
 
 **Armor Class** 10
 
@@ -47373,16 +47202,16 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Keen Smell._** The rat has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The rat has advantage on Wisdom (Perception) checks that rely
+on smell.
 
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one
-target.
+Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
  Hit: 1 piercing damage.
 ```
+
 #### Raven
 
 ```
@@ -47406,20 +47235,19 @@ Challenge
 ```
 
 ```
-Mimicry.
- The raven can mimic simple sounds it has
-heard, such as a person whispering, a baby crying, or
-an animal chittering. A creature that hears the sounds
-can tell they are imitations with a successful DC 10
-Wisdom (Insight) check.
+Mimicry. The raven can mimic simple sounds it has heard, such as a person
+whispering, a baby crying, or an animal chittering. A creature that hears the
+sounds can tell they are imitations with a successful DC 10 Wisdom (Insight)
+check.
 ```
+
 ##### Actions
 
 ```
-Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target.
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
  Hit: 1 piercing damage.
 ```
+
 #### Reef Shark
 
 ```
@@ -47442,31 +47270,20 @@ Challenge
  1/2 (100 XP)
 ```
 
-```
-Pack Tactics.
- The shark has advantage on an attack roll
-against a creature if at least one of the shark's allies is
-```
+Pack Tactics. The shark has advantage on an attack roll against a creature if
+at least one of the shark's allies is within 5 feet of the creature and the
+ally isn't incapacitated.
 
-within 5 feet of the creature and the ally isn't
-incapacitated.
-
-**_Water Breathing.
-_** The shark can breathe only
-underwater.
+**_Water Breathing. _** The shark can breathe only underwater.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 6 (1d8 + 2) piercing damage.
+**_Bite._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.
+ _Hit: _ 6 (1d8 + 2) piercing damage.
 
-Smaller than giant sharks and hunter sharks,
- **reef
-sharks** inhabit shallow waters and coral reefs,
-gathering in small packs to hunt. A full-grown
-specimen measures 6 to 10 feet long.
+Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow
+waters and coral reefs, gathering in small packs to hunt. A full-grown specimen
+measures 6 to 10 feet long.
 
 #### Rhinoceros
 
@@ -47489,20 +47306,15 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 2 (450 XP)
 
-**_Charge._** If the rhinoceros moves at least 20 feet
-straight toward a target and then hits it with a gore
-attack on the same turn, the target takes an extra 9
-(2d8) bludgeoning damage. If the target is a creature, it
-must succeed on a DC 15 Strength saving throw or be
-knocked prone.
+**_Charge._** If the rhinoceros moves at least 20 feet straight toward a target
+and then hits it with a gore attack on the same turn, the target takes an extra
+9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a
+DC 15 Strength saving throw or be knocked prone.
 
 ##### Actions
 
-**_Gore._** _Melee Weapon Attack:
-_ +7 to hit, reach 5 ft., one
-target.
- _Hit:
-_ 14 (2d8 + 5) bludgeoning damage.
+**_Gore._** _Melee Weapon Attack: _ +7 to hit, reach 5 ft., one target.
+ _Hit: _ 14 (2d8 + 5) bludgeoning damage.
 
 #### Riding Horse
 
@@ -47531,11 +47343,10 @@ Challenge
 ##### Actions
 
 ```
-Hooves. Melee Weapon Attack: +5 to hit, reach 5 ft.,
-one target.
- Hit:
- 8 (2d4 + 3) bludgeoning damage.
+Hooves. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+ Hit: 8 (2d4 + 3) bludgeoning damage.
 ```
+
 #### Saber-Toothed Tiger
 
 ```
@@ -47559,25 +47370,24 @@ Challenge
 ```
 
 ```
-Keen Smell. The tiger has advantage on Wisdom
-(Perception) checks that rely on smell.
-Pounce. If the tiger moves at least 20 feet straight
-toward a creature and then hits it with a claw attack on
-the same turn, that target must succeed on a DC 14
-Strength saving throw or be knocked prone. If the
-target is prone, the tiger can make one bite attack
-against it as a bonus action.
+Keen Smell. The tiger has advantage on Wisdom (Perception) checks that rely on
+smell.
+
+Pounce. If the tiger moves at least 20 feet straight toward a creature and then
+hits it with a claw attack on the same turn, that target must succeed on a DC
+14 Strength saving throw or be knocked prone. If the target is prone, the tiger
+can make one bite attack against it as a bonus action.
 ```
+
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one
-target.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
  Hit: 10 (1d10 + 5) piercing damage.
-Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one
-target.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
  Hit: 12 (2d6 + 5) slashing damage.
 ```
+
 #### Scorpion
 
 ```
@@ -47601,13 +47411,11 @@ STR DEX CON INT WIS CHA
 
 ##### Actions
 
-**_Sting._** _ Melee Weapon Attack:_ +2 to hit, reach 5 ft., one
-creature.
+**_Sting._** _ Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature.
  _Hit:
-_ 1 piercing damage, and the target must
-make a DC 9 Constitution saving throw, taking 4 (1d8)
-poison damage on a failed save, or half as much
-damage on a successful one.
+_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw,
+taking 4 (1d8) poison damage on a failed save, or half as much damage on a
+successful one.
 
 #### Sea Horse
 
@@ -47657,18 +47465,17 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Spider Climb.
-_** The spider can climb difficult surfaces,
-including upside down on ceilings, without needing to
-make an ability check.
+**_Spider Climb. _** The spider can climb difficult surfaces, including upside
+down on ceilings, without needing to make an ability check.
 
 ```
-Web Sense. While in contact with a web, the spider
-knows the exact location of any other creature in
-contact with the same web.
-Web Walker. The spider ignores movement restrictions
-caused by webbing.
+Web Sense. While in contact with a web, the spider knows the exact location of
+any other creature in contact with the same web.
+
+Web Walker. The spider ignores movement restrictions caused by webbing.
+
 ```
+
 ##### Actions
 
 ```
@@ -47696,9 +47503,8 @@ STR DEX CON INT WIS CHA
 ```
 
 ```
-Damage Resistances bludgeoning, piercing, slashing
-Condition Immunities charmed, frightened, grappled,
-paralyzed, petrified, prone, restrained, stunned
+Damage Resistances bludgeoning, piercing, slashing Condition Immunities
+charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 Senses blindsight 60 ft., passive Perception 11
 Languages --
 Challenge
@@ -47706,15 +47512,14 @@ Challenge
 ```
 
 ```
-Echolocation. The swarm can't use its blindsight while
-deafened.
-Keen Hearing. The swarm has advantage on Wisdom
-(Perception) checks that rely on hearing.
-Swarm. The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny bat. The swarm
-can't regain hit points or gain temporary hit points.
+Echolocation. The swarm can't use its blindsight while deafened.
+
+Keen Hearing. The swarm has advantage on Wisdom (Perception) checks that rely
+on hearing. Swarm. The swarm can occupy another creature's space and vice
+versa, and the swarm can move through any opening large enough for a Tiny bat.
+The swarm can't regain hit points or gain temporary hit points.
 ```
+
 ##### Actions
 
 ```
@@ -47752,10 +47557,9 @@ paralyzed, petrified, prone, restrained, stunned
 **Challenge
 ** 1/2 (100 XP)
 
-**_Swarm._** The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny insect. The swarm
-can't regain hit points or gain temporary hit points.
+**_Swarm._** The swarm can occupy another creature's space and vice versa, and
+the swarm can move through any opening large enough for a Tiny insect. The
+swarm can't regain hit points or gain temporary hit points.
 
 ##### Actions
 
@@ -47783,8 +47587,8 @@ STR DEX CON INT WIS CHA
 ```
 **Damage Resistances** bludgeoning, piercing, slashing
 
-**Condition Immunities** charmed, frightened, grappled,
-paralyzed, petrified, prone, restrained, stunned
+**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified,
+prone, restrained, stunned
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -47793,24 +47597,21 @@ paralyzed, petrified, prone, restrained, stunned
 **Challenge
 ** 2 (450 XP)
 
-**_Swarm._** The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny snake. The swarm
+**_Swarm._** The swarm can occupy another creature's space and vice versa, and
+the swarm can move through any opening large enough for a Tiny snake. The swarm
 can't regain hit points or gain temporary hit points.
 
 ##### Actions
 
 ```
-Bites. Melee Weapon Attack: +6 to hit, reach 0 ft., one
-creature in the swarm's space.
- Hit:
- 7 (2d6) piercing
-damage, or 3 (1d6) piercing damage if the swarm has
-half of its hit points or fewer. The target must make a
-DC 10 Constitution saving throw, taking 14 (4d6)
-poison damage on a failed save, or half as much
-damage on a successful one.
+Bites. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's
+space.
+ Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
+ of its hit points or fewer. The target must make a DC 10 Constitution saving
+ throw, taking 14 (4d6) poison damage on a failed save, or half as much damage
+ on a successful one.
 ```
+
 #### Swarm of Quippers
 
 ```
@@ -47826,9 +47627,8 @@ STR DEX CON INT WIS CHA
 ```
 
 ```
-Damage Resistances bludgeoning, piercing, slashing
-Condition Immunities charmed, frightened, grappled,
-paralyzed, petrified, prone, restrained, stunned
+Damage Resistances bludgeoning, piercing, slashing Condition Immunities
+charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 Senses darkvision 60 ft., passive Perception 8
 Languages --
 Challenge
@@ -47836,19 +47636,16 @@ Challenge
 ```
 
 ```
-Blood Frenzy.
- The swarm has advantage on melee
-attack rolls against any creature that doesn't have all
-its hit points.
-Swarm. The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny quipper. The
-swarm can't regain hit points or gain temporary hit
-points.
-Water Breathing.
- The swarm can breathe only
-underwater.
+Blood Frenzy. The swarm has advantage on melee attack rolls against any
+creature that doesn't have all its hit points.
+
+Swarm. The swarm can occupy another creature's space and vice versa, and the
+swarm can move through any opening large enough for a Tiny quipper. The swarm
+can't regain hit points or gain temporary hit points.
+
+Water Breathing. The swarm can breathe only underwater.
 ```
+
 ##### Actions
 
 ```
@@ -47884,12 +47681,11 @@ paralyzed, petrified, prone, restrained, stunned
 **Challenge
 ** 1/4 (50 XP)
 
-**_Keen Smell._** The swarm has advantage on Wisdom
-(Perception) checks that rely on smell.
+**_Keen Smell._** The swarm has advantage on Wisdom (Perception) checks that
+rely on smell.
 
-**_Swarm._** The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny rat. The swarm
+**_Swarm._** The swarm can occupy another creature's space and vice versa, and
+the swarm can move through any opening large enough for a Tiny rat. The swarm
 can't regain hit points or gain temporary hit points.
 
 ##### Actions
@@ -47930,44 +47726,44 @@ paralyzed, petrified, prone, restrained, stunned
 **Challenge
 ** 1/4 (50 XP)
 
-**_Swarm._** The swarm can occupy another creature's
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny raven. The swarm
+**_Swarm._** The swarm can occupy another creature's space and vice versa, and
+the swarm can move through any opening large enough for a Tiny raven. The swarm
 can't regain hit points or gain temporary hit points.
 
 ##### Actions
 
 ```
-Beaks. Melee Weapon Attack: +4 to hit, reach 5 ft., one
-target in the swarm's space.
- Hit: 7 (2d6) piercing
-damage, or 3 (1d6) piercing damage if the swarm has
-half of its hit points or fewer.
+Beaks. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's
+space.
+ Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
+ of its hit points or fewer.
 ```
+
 ##### Variant: Insect Swarms
 
 ```
-Different kinds of insects can gather in swarms, and each
-swarm has the special characteristics described below.
-Swarm of Beetles. A swarm of beetles gains a burrowing
-speed of 5 feet.
-Swarm of Centipedes. A creature reduced to 0 hit points
-by a swarm of centipedes is stable but poisoned for 1 hour,
-even after regaining hit points, and paralyzed while poisoned
-in this way.
-Swarm of Spiders. A swarm of spiders has the following
-additional traits.
-Spider Climb. The swarm can climb difficult surfaces,
-including upside down on ceilings, without needing to make
-an ability check.
-Web Sense. While in contact with a web, the swarm knows
-the exact location of any other creature in contact with the
-same web.
-Web Walker. The swarm ignores movement restrictions
-caused by webbing.
-Swarm of Wasps. A swarm of wasps has a walking speed
-of 5 feet, a flying speed of 30 feet, and no climbing speed.
+Different kinds of insects can gather in swarms, and each swarm has the special
+characteristics described below. Swarm of Beetles. A swarm of beetles gains a
+burrowing speed of 5 feet.
+
+Swarm of Centipedes. A creature reduced to 0 hit points by a swarm of
+centipedes is stable but poisoned for 1 hour, even after regaining hit points,
+and paralyzed while poisoned in this way.
+
+Swarm of Spiders. A swarm of spiders has the following additional traits.
+
+Spider Climb. The swarm can climb difficult surfaces, including upside down on
+ceilings, without needing to make an ability check.
+
+Web Sense. While in contact with a web, the swarm knows the exact location of
+any other creature in contact with the same web.
+
+Web Walker. The swarm ignores movement restrictions caused by webbing.
+
+Swarm of Wasps. A swarm of wasps has a walking speed of 5 feet, a flying speed
+of 30 feet, and no climbing speed.
 ```
+
 #### Tiger
 
 ```
@@ -47991,25 +47787,21 @@ Challenge
 ```
 
 ```
-Keen Smell. The tiger has advantage on Wisdom
-(Perception) checks that rely on smell.
-Pounce. If the tiger moves at least 20 feet straight
-toward a creature and then hits it with a claw attack on
-the same turn, that target must succeed on a DC 13
-Strength saving throw or be knocked prone. If the
+Keen Smell. The tiger has advantage on Wisdom (Perception) checks that rely on
+smell. Pounce. If the tiger moves at least 20 feet straight toward a creature
+and then hits it with a claw attack on the same turn, that target must succeed
+on a DC 13 Strength saving throw or be knocked prone. If the
 ```
 
-target is prone, the tiger can make one bite attack
-against it as a bonus action.
+target is prone, the tiger can make one bite attack against it as a bonus
+action.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target. _Hit:
+**_Bite._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:
 _ 8 (1d10 + 3) piercing damage.
 
-**_Claw._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one
-target.
+**_Claw._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.
  _Hit:
 _ 7 (1d8 + 3) slashing damage.
 
@@ -48037,19 +47829,16 @@ STR DEX CON INT WIS CHA
 **Challenge
 ** 0 (10 XP)
 
-**_Keen Sight and Smell._** The vulture has advantage on
-Wisdom (Perception) checks that rely on sight or smell.
+**_Keen Sight and Smell._** The vulture has advantage on Wisdom (Perception)
+checks that rely on sight or smell.
 
-**_Pack Tactics.
-_** The vulture has advantage on an attack
-roll against a creature if at least one of the vulture's
-allies is within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The vulture has advantage on an attack roll against a
+creature if at least one of the vulture's allies is within 5 feet of the
+creature and the ally isn't incapacitated.
 
 ##### Actions
 
-**_Beak._** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one
-target.
+**_Beak._** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target.
  _Hit:_ 2 (1d4) piercing damage.
 
 #### Warhorse
@@ -48078,19 +47867,16 @@ STR DEX CON INT WIS CHA
 ** 1/2 (100 XP)
 
 ```
-Trampling Charge. If the horse moves at least 20 feet
-straight toward a creature and then hits it with a
-hooves attack on the same turn, that target must
-succeed on a DC 14 Strength saving throw or be
-knocked prone. If the target is prone, the horse can
-make another attack with its hooves against it as a
-bonus action.
+Trampling Charge. If the horse moves at least 20 feet straight toward a
+creature and then hits it with a hooves attack on the same turn, that target
+must succeed on a DC 14 Strength saving throw or be knocked prone. If the
+target is prone, the horse can make another attack with its hooves against it
+as a bonus action.
 ```
 ##### Actions
 
 ```
-Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft.,
-one target.
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
  Hit: 11 (2d6 + 4) bludgeoning damage.
 ```
 #### Weasel
@@ -48116,17 +47902,16 @@ Challenge
 ```
 
 ```
-Keen Hearing and Smell. The weasel has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+Keen Hearing and Smell. The weasel has advantage on Wisdom (Perception) checks
+that rely on hearing or smell.
 ```
 ##### Actions
 
 ```
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one
-target.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
  Hit: 1 piercing damage.
 ```
+
 #### Winter Wolf
 
 ```
@@ -48154,45 +47939,34 @@ Damage Immunities
 **Challenge
 ** 3 (700 XP)
 
-**_Keen Hearing and Smell._** The wolf has advantage on
-Wisdom (Perception) checks that rely on hearing or
-smell.
+**_Keen Hearing and Smell._** The wolf has advantage on Wisdom (Perception)
+checks that rely on hearing or smell.
 
-**_Pack Tactics.
-_** The wolf has advantage on an attack roll
-against a creature if at least one of the wolf's allies is
-within 5 feet of the creature and the ally isn't
-incapacitated.
+**_Pack Tactics. _** The wolf has advantage on an attack roll against a
+creature if at least one of the wolf's allies is within 5 feet of the creature
+and the ally isn't incapacitated.
 
-**_Snow Camouflage.
-_** The wolf has advantage on
-Dexterity (Stealth) checks made to hide in snowy
-terrain.
+**_Snow Camouflage. _** The wolf has advantage on Dexterity (Stealth) checks
+made to hide in snowy terrain.
 
 ##### Actions
 
-**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one
-target.
+**_Bite._** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target.
  _Hit:
-_ 11 (2d6 + 4) piercing damage. If the target is
-a creature, it must succeed on a DC 14 Strength saving
-throw or be knocked prone.
+_ 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on
+a DC 14 Strength saving throw or be knocked prone.
 
-**_Cold Breath (Recharge 5-6)._** The wolf exhales a blast of
-freezing wind in a 15-foot cone. Each creature in that
-area must make a DC 12 Dexterity saving throw, taking
-18 (4d8) cold damage on a failed save, or half as much
-damage on a successful one.
+**_Cold Breath (Recharge 5-6)._** The wolf exhales a blast of freezing wind in
+a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving
+throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on
+a successful one.
 
-The arctic-dwelling
- **winter wolf** is as large as a dire
-wolf but has snow-white fur and pale blue eyes.
-Frost giants use these evil creatures as guards and
-hunting companions, putting the wolves' deadly
-breath weapon to use against their foes. Winter
-wolves communicate with one another using growls
-and barks, but they speak Common and Giant well
-enough to follow simple conversations.
+The arctic-dwelling **winter wolf** is as large as a dire wolf but has
+snow-white fur and pale blue eyes. Frost giants use these evil creatures as
+guards and hunting companions, putting the wolves' deadly breath weapon to use
+against their foes. Winter wolves communicate with one another using growls and
+barks, but they speak Common and Giant well enough to follow simple
+conversations.
 
 #### Wolf
 
