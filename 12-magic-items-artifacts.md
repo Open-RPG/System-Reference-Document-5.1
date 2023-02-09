@@ -1622,7 +1622,10 @@ _Medium undead, neutral evil_
 **Speed** 60 ft., fly 60 ft. (hover)
 
 ```
-STR DEX CON INT WIS CHA
+|  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|--------|--------|--------|--------|--------|--------|
+|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|
+{.ability-block}
 16 (+3)
  16 (+3)
  16 (+3)
@@ -2142,7 +2145,10 @@ _Large beast, unaligned_
 **Speed** 30 ft., fly 60 ft.
 
 ```
-STR DEX CON INT WIS CHA
+|  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
+|--------|--------|--------|--------|--------|--------|
+|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|
+{.ability-block}
 14 (+2)
  13 (+1)
  13 (+1) 2 (-4) 10 (+0) 3 (-4)
