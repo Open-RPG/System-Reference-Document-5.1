@@ -1621,18 +1621,11 @@ _Medium undead, neutral evil_
 
 **Speed** 60 ft., fly 60 ft. (hover)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
-|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|
-{.ability-block}
-16 (+3)
- 16 (+3)
- 16 (+3)
- 16 (+3)
- 16 (+3)
- 16 (+3)
-```
+|16 (+3) |16 (+3) |16 (+3) |16 (+3) |16 (+3) |16 (+3) |
+{:.ability-block}
+
 **Damage Immunities** necrotic, poison
 
 **Condition Immunities** charmed, frightened, paralyzed,
@@ -2144,15 +2137,11 @@ _Large beast, unaligned_
 
 **Speed** 30 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
-|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|00 (+00)|
-{.ability-block}
-14 (+2)
- 13 (+1)
- 13 (+1) 2 (-4) 10 (+0) 3 (-4)
-```
+|14 (+2) |13 (+1) |13 (+1) | 2 (-4) |10 (+0) | 3 (-4) |
+{:.ability-block}
+
 **Senses** darkvision 60 ft., passive Perception 10
 
 **Languages** --
