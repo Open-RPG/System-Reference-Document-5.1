@@ -1,12 +1,19 @@
-# System-Reference-Document-5.1
+# 5E System Reference Document v5.1
 
-This is a project to make the SRD 5.1 now available under Creative Commons available in a format that is useable by people inside other projects.
+On January 20th, 2023 Wizards of the Coast released the "SRD", the System
+Reference Document, describing the basic rules for its role playing game,
+under the license known colloquially as the Creative Commons CC-BY 4.0, an
+"open culture" license that promotes the open and free use of creative works
+by the general public.
 
-To Start with there is a single file that includes the entire SRD 5.1 but this will be broken into parts.
+This project aims to make the content of the version 5.1 SRD available in a
+format that's a little easier for people to work with. Microsoft Word doesn't
+produce the most useful PDF documents, it turns out. Accessibility is poor,
+document structure is obliterated, and often even single words are split by
+Word's prehistoric and hamfisted attempts at things like font kerning.
 
+We can do better. And for the sake of creators, gamers, and for Wizards of the
+Coast who also benefits greatly from the widespread adoption of this SRD, we
+are doing better.
 
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of 
-the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The 
-SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at 
-https://creativecommons.org/licenses/by/4.0/legalcode
+We hope you find this Markdown version of the SRD useful!
