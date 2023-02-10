@@ -876,12 +876,11 @@ _Large aberration, lawful evil _
 
 **Speed** 10 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) | 9 (-1) |15 (+2) |18 (+4) |15 (+2) |18 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Con +6, Int +8, Wis +6
 
 **Skills** History +12, Perception +10
@@ -978,12 +977,10 @@ Hit Points
 Speed 30 ft., fly 90 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |18 (+4) |18 (+4) |17 (+3) |20 (+5) |20 (+5) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Wis +9, Cha +9
@@ -1056,12 +1053,10 @@ _
 
 **Speed** 40 ft., fly 120 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |24 (+7) |20 (+5) |24 (+7) |19 (+4) |22 (+6) |25 (+7) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Con +12, Wis +11, Cha +12
@@ -1126,7 +1121,6 @@ Hit Points 243 (18d10 + 144)
 Speed 50 ft., fly 150 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -1248,12 +1242,10 @@ Hit Points 33 (6d8 + 6)
 Speed 25 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |11 (+0) |13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities poison, psychic
@@ -1301,12 +1293,11 @@ _Small construct, unaligned_
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |15 (+2) |11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +4
 
 **Damage Immunities** poison, psychic
@@ -1352,12 +1343,10 @@ Hit Points 33 (6d10)
 Speed 10 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |14 (+2) |10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities poison, psychic
@@ -1407,12 +1396,10 @@ Hit Points 39 (6d10 + 6)
 Speed 30 ft., burrow 10 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |11 (+0) |13 (+1) | 1 (-5) |13 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., tremorsense 60 ft., passive
@@ -1451,12 +1438,11 @@ _Medium elemental, lawful neutral_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |12 (+1) |15 (+2) |12 (+1) |13 (+1) |10 (+0) |
 {:.ability-block}
-```
+
 **Saving Throws** Con +4
 
 **Damage Immunities** fire, poison
@@ -1502,12 +1488,10 @@ Hit Points 52 (8d8 + 16)
 Speed 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) | 8 (-1) |15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 9
@@ -1662,12 +1646,10 @@ Hit Points 94 (9d10 + 45)
 Speed 40 ft., burrow 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |11 (+0) |21 (+5) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +6
@@ -1718,12 +1700,11 @@ _Large monstrosity, neutral good_
 **Speed
 ** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |14 (+2) |14 (+2) | 9 (-1) |13 (+1) |11 (+0) |
 {:.ability-block}
-```
+
 **Skills** Athletics +6, Perception +3, Survival +3
 
 **Senses** passive Perception 13
@@ -1770,12 +1751,10 @@ Hit Points 114 (12d10 + 48)
 Speed 30 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |11 (+0) |19 (+4) | 3 (-4) |14 (+2) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +8
@@ -1819,12 +1798,10 @@ Hit Points 93 (11d10 + 33)
 Speed 30 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |16 (+3) | 5 (-3) |11 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -1876,12 +1853,11 @@ _Large aberration, chaotic neutral_
 
 **Speed** 10 ft., fly 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |12 (+1) |13 (+1) |12 (+1) |14 (+2) |
 {:.ability-block}
-```
+
 **Skills** Stealth +5
 
 **Senses** darkvision 60 ft., passive Perception 11
@@ -1991,12 +1967,11 @@ _Medium celestial, lawful good_
 
 **Speed** 30 ft., fly 90 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |20 (+5) |17 (+3) |18 (+4) |20 (+5) |18 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Con +5, Wis +7, Cha +6
 
 **Damage Resistances** radiant
@@ -2091,12 +2066,10 @@ Hit Points 22 (5d6 + 5)
 Speed 10 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |12 (+1) |13 (+1) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills
@@ -2157,12 +2130,11 @@ _Huge fiend (demon), chaotic evil_
 
 **Speed** 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |26 (+8) |15 (+2) |22 (+6) |20 (+5) |16 (+3) |22 (+6) |
 {:.ability-block}
-```
+
 **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
 
 **Damage Resistances** cold, lightning; bludgeoning,
@@ -2282,12 +2254,11 @@ _Large fiend (demon), chaotic evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) |15 (+2) |21 (+5) |19 (+4) |17 (+3) |16 (+3) |
 {:.ability-block}
-```
+
 **Saving Throws
 ** Str +9, Con +9, Wis +7, Cha +7
 
@@ -2349,12 +2320,10 @@ Hit Points 136 (13d10 + 65)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |17 (+3) |20 (+5) | 5 (-3) |12 (+1) |13 (+1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Str +7, Con +8, Wis +4
@@ -2405,12 +2374,11 @@ _Large fiend (demon), chaotic evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |20 (+5) |20 (+5) |18 (+4) |16 (+3) |20 (+5) |
 {:.ability-block}
-```
+
 **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
 
 **Damage Resistances** cold, fire, lightning; bludgeoning,
@@ -2479,12 +2447,10 @@ Hit Points 184 (16d10 + 96)
 Speed 20 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) |10 (+0) |22 (+6) |19 (+4) |12 (+1) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Con +11, Int +9, Wis +6, Cha +7
@@ -2543,12 +2509,11 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |17 (+3) |10 (+0) | 7 (-2) |10 (+0) |10 (+0) |
 {:.ability-block}
-```
+
 **Skills** Stealth +5
 
 **Damage Resistances** cold, fire, lightning; bludgeoning,
@@ -2611,12 +2576,10 @@ Hit Points 104 (11d10 + 44)
 Speed 40 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |18 (+4) | 8 (-1) |13 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +5, Wis +4, Cha +2
@@ -2677,12 +2640,11 @@ _
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |17 (+3) |18 (+4) |12 (+1) |14 (+2) |14 (+2) |
 {:.ability-block}
-```
+
 **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
 
 **Skills** Deception +5, Insight +5, Perception +8
@@ -2745,7 +2707,6 @@ Hit Points 52 (8d8 + 16)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -2815,12 +2776,11 @@ _Large fiend (devil), lawful evil_
 
 **Speed** 40 ft., fly 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |16 (+3) |18 (+4) |13 (+1) |14 (+2) |16 (+3) |
 {:.ability-block}
-```
+
 **Saving Throws** Int +5, Wis +6, Cha +7
 
 **Skills** Deception +7, Insight +6
@@ -2952,12 +2912,11 @@ _Medium fiend (devil), lawful evil_
 
 **Speed** 30 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |16 (+3) |18 (+4) |14 (+2) |14 (+2) |18 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
 **Damage Resistances** cold; bludgeoning, piercing, and
@@ -3017,12 +2976,10 @@ Hit Points 178 (17d10 + 85)
 Speed 20 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) |17 (+3) |21 (+5) |12 (+1) |16 (+3) |17 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Str +10, Dex +7, Wis +7, Cha +7
@@ -3085,12 +3042,11 @@ _Large fiend (devil), lawful evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) |14 (+2) |18 (+4) |18 (+4) |15 (+2) |18 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 
 **Damage Resistances** bludgeoning, piercing, and
@@ -3174,12 +3130,10 @@ Hit Points 10 (3d4 + 3)
 Speed 20 ft., fly 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |17 (+3) |13 (+1) |11 (+0) |12 (+1) |14 (+2) |
 {:.ability-block}
-```
 
 ```
 Skills Deception +4, Insight +3, Persuasion +4, Stealth
@@ -3234,12 +3188,11 @@ _Medium fiend (devil), lawful evil_
 
 **Speed** 15 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) | 5 (-3) |11 (+0) | 1 (-5) |11 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Damage Resistances** cold
 
 **Damage Immunities** fire, poison
@@ -3367,12 +3320,11 @@ _Large beast, unaligned_
 **Speed
 ** 20 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |15 (+2) |16 (+3) | 2 (-4) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +4
 
 **Senses** passive Perception 13
@@ -3402,12 +3354,11 @@ _Huge beast, unaligned_
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) | 9 (-1) |17 (+3) | 2 (-4) |11 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 10
 
 **Languages** --
@@ -3445,12 +3396,10 @@ Hit Points 136 (13d12 + 52)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |25 (+7) |10 (+0) |19 (+4) | 2 (-4) |12 (+1) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -3487,12 +3436,10 @@ Hit Points 52 (8d8 + 16)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |11 (+0) |18 (+4) |14 (+2) |11 (+0) |12 (+1) |14 (+2) |
 {:.ability-block}
-```
 
 **Skills** Deception +6, Insight +3
 
@@ -3649,12 +3596,11 @@ _Huge dragon, chaotic evil_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |14 (+2) |21 (+5) |14 (+2) |13 (+1) |17 (+3) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
 
 **Skills** Perception +11, Stealth +7
@@ -3744,12 +3690,10 @@ Hit Points 127 (15d10 + 45)
 Speed 40 ft., fly 80 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |14 (+2) |17 (+3) |12 (+1) |11 (+0) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +5, Con +6, Wis +3, Cha +5
@@ -3798,12 +3742,11 @@ _Medium dragon, chaotic evil_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |14 (+2) |13 (+1) |10 (+0) |11 (+0) |13 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +4, Con +3, Wis +2, Cha + 3
 
 **Skills** Perception +4, Stealth +4
@@ -3845,12 +3788,10 @@ Hit Points 481 (26d20 + 208)
 Speed 40 ft., burrow 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |29 (+9) |10 (+0) |27 (+8) |18 (+4) |17 (+3) |21 (+5) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +7, Con +15, Wis +10, Cha +12
@@ -3935,12 +3876,11 @@ _
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |25 (+7) |10 (+0) |23 (+6) |16 (+3) |15 (+2) |19 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
 **Skills
@@ -4029,12 +3969,10 @@ Hit Points 152 (16d10 + 64)
 Speed 40 ft., burrow 20 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) |10 (+0) |19 (+4) |14 (+2) |13 (+1) |17 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +4, Con +8, Wis +5, Cha +7
@@ -4082,12 +4020,11 @@ _Medium dragon, lawful evil_
 
 **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |10 (+0) |15 (+2) |12 (+1) |11 (+0) |15 (+2) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
 **Skills** Perception +4, Stealth +2
@@ -4128,12 +4065,10 @@ Speed
  40 ft., fly 80 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |12 (+1) |25 (+7) |20 (+5) |17 (+3) |19 (+4) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +8, Con +14, Wis +10, Cha +11
@@ -4371,12 +4306,11 @@ _Medium dragon, lawful evil_
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |12 (+1) |13 (+1) |14 (+2) |11 (+0) |13 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
 **Skills** Perception +4, Stealth +3
@@ -4421,7 +4355,6 @@ Hit Points 546 (28d20 + 252)
 Speed 40 ft., climb 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -4514,12 +4447,11 @@ _Hug e dragon, chaotic evil_
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |10 (+0) |25 (+7) |16 (+3) |13 (+1) |21 (+5) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
 
 **Skills** Perception +13, Stealth +6
@@ -4604,12 +4536,11 @@ _Large dragon, chaotic evil_
 
 **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |10 (+0) |21 (+5) |14 (+2) |11 (+0) |19 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
 **Skills** Perception +8, Stealth +4
@@ -4656,12 +4587,11 @@ _Medium dragon, chaotic evil_
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |17 (+3) |12 (+1) |11 (+0) |15 (+2) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
 
 **Skills** Perception +4, Stealth +2
@@ -4702,12 +4632,10 @@ Hit Points 333 (18d20 + 144)
 Speed 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |26 (+8) |10 (+0) |26 (+8) |10 (+0) |13 (+1) |14 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +6, Con +14, Wis +7, Cha +8
@@ -4799,12 +4727,11 @@ _Huge dragon, chaotic evil_
 
 **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) |10 (+0) |22 (+6) | 8 (-1) |12 (+1) |12 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
 
 **Skills** Perception +11, Stealth +5
@@ -4893,12 +4820,11 @@ _Large dragon, chaotic evil_
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |10 (+0) |18 (+4) | 6 (-2) |11 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
 
 **Skills** Perception +6, Stealth +3
@@ -4951,12 +4877,10 @@ Hit Points 32 (5d8 + 10)
 Speed 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |10 (+0) |14 (+2) | 5 (-3) |10 (+0) |11 (+0) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +2, Con +4, Wis +2, Cha +2
@@ -4995,12 +4919,10 @@ Hit Points 297 (17d20 + 119)
 Speed 40 ft., burrow 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |10 (+0) |25 (+7) |16 (+3) |15 (+2) |19 (+4) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +6, Con +13, Wis +8, Cha +10
@@ -5106,12 +5028,10 @@ Hit Points 172 (15d12 + 75)
 Speed 40 ft., burrow 30 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |10 (+0) |21 (+5) |14 (+2) |13 (+1) |17 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +5, Con +10, Wis +6, Cha +8
@@ -5259,12 +5179,10 @@ Hit Points 16 (3d8 + 3)
 Speed 30 ft., burrow 15 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |13 (+1) |10 (+0) |11 (+0) |13 (+1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +2, Con +3, Wis +2, Cha +3
@@ -5313,12 +5231,11 @@ _Gargantuan dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |29 (+9) |10 (+0) |27 (+8) |18 (+4) |17 (+3) |21 (+5) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
 **Skills** Insight +10, Perception +17, Stealth +7
@@ -5426,12 +5343,11 @@ _Huge dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |25 (+7) |10 (+0) |23 (+6) |16 (+3) |15 (+2) |19 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
 **Skills** Insight +7, Perception +12, Stealth +5
@@ -5540,12 +5456,11 @@ _Large dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) |10 (+0) |19 (+4) |14 (+2) |13 (+1) |17 (+3) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
 
 **Skills** Insight +4, Perception +7, Stealth +3
@@ -5651,12 +5566,10 @@ Hit Points 350 (20d20 + 140)
 Speed 40 ft., climb 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |12 (+1) |25 (+7) |20 (+5) |17 (+3) |19 (+4) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +8, Con +14, Wis +10, Cha +11
@@ -5771,12 +5684,10 @@ Hit Points 184 (16d12 + 80)
 Speed 40 ft., climb 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |12 (+1) |21 (+5) |18 (+4) |15 (+2) |17 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +6, Con +10, Wis +7, Cha +8
@@ -5878,12 +5789,10 @@ Hit Points 119 (14d10 + 42)
 Speed 40 ft., climb 40 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |12 (+1) |17 (+3) |16 (+3) |13 (+1) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +4, Con +6, Wis +4, Cha +5
@@ -5937,12 +5846,11 @@ _Medium dragon, chaotic good_
 
 **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |12 (+1) |13 (+1) |14 (+2) |11 (+0) |13 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
 **Skills** Perception +4, Stealth +3
@@ -5994,7 +5902,6 @@ Hit Points 546 (28d20 + 252)
 Speed 40 ft., fly 80 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -6113,12 +6020,10 @@ _Huge dragon, lawful good_
 Speed 40 ft., fly 80 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |14 (+2) |25 (+7) |16 (+3) |15 (+2) |24 (+7) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +8, Con +13, Wis +8, Cha +13
@@ -6227,12 +6132,10 @@ _Large dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |14 (+2) |21 (+5) |16 (+3) |13 (+1) |20 (+5) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +6, Con +9, Wis +5, Cha +9
@@ -6285,12 +6188,10 @@ Hit Points 60 (8d8 + 24)
 Speed 30 ft., fly 60 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |14 (+2) |17 (+3) |14 (+2) |11 (+0) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws
@@ -6344,7 +6245,6 @@ _Gargantuan dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -6456,12 +6356,11 @@ _Huge dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |10 (+0) |25 (+7) |16 (+3) |13 (+1) |21 (+5) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
 **Skills** Arcana +8, History +8, Perception +11, Stealth +5
@@ -6568,12 +6467,11 @@ _Large dragon, lawful good_
 
 **Speed** 40 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |10 (+0) |21 (+5) |14 (+2) |11 (+0) |19 (+4) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
 **Skills** Arcana +6, History +6, Perception +8, Stealth +4
@@ -6627,12 +6525,10 @@ Hit Points 45 (6d8 + 18)
 Speed 30 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |17 (+3) |12 (+1) |11 (+0) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +2, Con +5, Wis +2, Cha +4
@@ -6673,7 +6569,6 @@ Hit Points 341 (22d20 + 110)
 Speed 20 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -6737,12 +6632,11 @@ _Large monstrosity, chaotic evil_
 **Speed** 30
  ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |16 (+3) |18 (+4) |13 (+1) |14 (+2) |12 (+1) |
 {:.ability-block}
-```
+
 **Skills** Perception +5, Stealth +9
 
 **Senses** darkvision 120 ft., passive Perception 15
@@ -6807,7 +6701,6 @@ Hit Points 22 (5d8)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -6894,12 +6787,10 @@ _Medium humanoid (dwarf), lawful evil_
 
 **Speed** 25 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |11 (+0) |14 (+2) |11 (+0) |10 (+0) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances poison
@@ -7022,12 +6913,11 @@ _
 
 **Speed** 30 ft., burrow 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) | 8 (-1) |20 (+5) | 5 (-3) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Damage Vulnerabilities** thunder
 
 **Damage Resistances** bludgeoning, piercing, and
@@ -7073,12 +6963,10 @@ Speed
  ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |17 (+3) |16 (+3) | 6 (-2) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances bludgeoning, piercing, and
@@ -7139,12 +7027,11 @@ _Large elemental, neutral_
 
 **Speed** 30 ft., swim 90 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |14 (+2) |18 (+4) | 5 (-3) |10 (+0) | 8 (-1) |
 {:.ability-block}
-```
+
 **Damage Resistances** acid; bludgeoning, piercing, and
 slashing from nonmagical attacks
 
@@ -7209,12 +7096,10 @@ Hit Points 13 (3d8)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |14 (+2) |10 (+0) |11 (+0) |11 (+0) |12 (+1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +2, Stealth +4
@@ -7267,12 +7152,11 @@ _Medium monstrosity, neutral evil_
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |15 (+2) |13 (+1) | 7 (-2) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +4, Survival +3
 
 **Senses** darkvision 60 ft., passive Perception 13
@@ -7332,12 +7216,10 @@ Hit Points 85 (10d10 + 30)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) | 8 (-1) |17 (+3) | 6 (-2) |10 (+0) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -7382,12 +7264,11 @@ _Medium plant, unaligned_
 
 **Speed** 0 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 1 (-5) | 1 (-5) |10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 {:.ability-block}
-```
+
 **Condition Immunities** blinded, deafened, frightened
 
 **Senses** blindsight 30 ft. (blind beyond this radius),
@@ -7420,12 +7301,11 @@ _Med ium plant, unaligned_
 **Speed
 ** 5 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) | 1 (-5) |10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 {:.ability-block}
-```
+
 **Condition Immunities** blinded, deafened, frightened
 
 **Senses** blindsight 30 ft. (blind beyond this radius),
@@ -7461,12 +7341,10 @@ Hit Points 52 (7d8 + 21)
 Speed 30 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |11 (+0) |16 (+3) | 6 (-2) |11 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances bludgeoning, piercing, and
@@ -7515,12 +7393,11 @@ _Large elemental, chaotic good_
 **Speed
 ** 30 ft., fly 90 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) |15 (+2) |22 (+6) |15 (+2) |16 (+3) |20 (+5) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +6, Wis +7, Cha +9
 
 **Damage Immunities** lightning, thunder
@@ -7598,12 +7475,10 @@ Hit Points 200 (16d10 + 112)
 Speed 40 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) |12 (+1) |24 (+7) |16 (+3) |15 (+2) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Int +7, Wis +6, Cha +7
@@ -7661,12 +7536,11 @@ _Medium undead, any alignment_
 **Speed
 ** 0 ft., fly 40 ft. (hover)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 7 (-2) |13 (+1) |10 (+0) |10 (+0) |12 (+1) |17 (+3) |
 {:.ability-block}
-```
+
 **Damage Resistances** acid, fire, lightning, thunder;
 bludgeoning, piercing, and slashing from nonmagical
 attacks
@@ -7759,12 +7633,10 @@ Hit Points 36 (8d8)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |17 (+3) |10 (+0) |11 (+0) |10 (+0) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances necrotic
@@ -7817,12 +7689,11 @@ _Medium undead, chaotic evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |15 (+2) |10 (+0) | 7 (-2) |10 (+0) | 6 (-2) |
 {:.ability-block}
-```
+
 **Damage Immunities** poison
 
 **Condition Immunities** charmed, exhaustion, poisoned
@@ -7865,12 +7736,10 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |27 (+8) |10 (+0) |22 (+6) |12 (+1) |16 (+3) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Con +10, Wis +7, Cha +7
@@ -7925,12 +7794,10 @@ Hit Points 162 (13d12 + 78)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |25 (+7) | 9 (-1) |23 (+6) |10 (+0) |14 (+2) |13 (+1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws
@@ -7970,12 +7837,11 @@ _Huge giant, neutral evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) | 9 (-1) |21 (+5) | 9 (-1) |10 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Con +8, Wis +3, Cha +4
 
 **Skills** Athletics +9, Perception +3
@@ -8013,12 +7879,11 @@ _Huge giant, chaotic evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) | 8 (-1) |19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +2
 
 **Senses** passive Perception 12
@@ -8050,12 +7915,10 @@ Hit Points 126 (11d12 + 55)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |15 (+2) |20 (+5) |10 (+0) |12 (+1) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +5, Con +8, Wis +4
@@ -8101,12 +7964,10 @@ Hit Points 230 (20d12 + 100)
 Speed 50 ft., swim 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |29 (+9) |14 (+2) |20 (+5) |16 (+3) |18 (+4) |18 (+4) |
 {:.ability-block}
-```
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
@@ -8172,12 +8033,11 @@ _Medium aberration, neutral_
 
 **Speed** 10 ft., swim 10 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) | 8 (-1) |16 (+3) | 3 (-4) |10 (+0) | 6 (-2) |
 {:.ability-block}
-```
+
 **Condition Immunities** prone
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -8239,12 +8099,10 @@ Hit Points 22 (5d8)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |12 (+1) |11 (+0) | 6 (-2) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 10
@@ -8289,12 +8147,11 @@ _Small humanoid (gnome), neutral good_
 
 **Speed** 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |14 (+2) |14 (+2) |12 (+1) |10 (+0) | 9 (-1) |
 {:.ability-block}
-```
+
 **Skills** Investigation +3, Perception +2, Stealth +4
 
 **Senses** darkvision 120 ft., passive Perception 12
@@ -8352,12 +8209,10 @@ Speed
  30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |14 (+2) |10 (+0) |10 (+0) | 8 (-1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +6
@@ -8394,12 +8249,10 @@ Hit Points 133 (14d10 + 56)
 Speed 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) | 9 (-1) |18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities
@@ -8474,12 +8327,10 @@ _Medium construct, neutral_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) | 9 (-1) |18 (+4) | 6 (-2) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities lightning, poison; bludgeoning,
@@ -8545,12 +8396,11 @@ _Large construct, unaligned_
 **Speed
 ** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |24 (+7) | 9 (-1) |20 (+5) | 3 (-4) |11 (+0) | 1 (-5) |
 {:.ability-block}
-```
+
 **Damage Immunities** fire, poison, psychic; bludgeoning,
 piercing, and slashing from nonmagical attacks that
 aren't adamantine
@@ -8661,12 +8511,10 @@ Hit Points 114 (12d10 + 48)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) |11 (+0) |18 (+4) | 2 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -8720,12 +8568,11 @@ _Medium monstrosity, neutral_
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |14 (+2) |11 (+0) | 3 (-4) |14 (+2) | 5 (-3) |
 {:.ability-block}
-```
+
 **Damage Resistances** bludgeoning, piercing, and
 slashing from nonmagical attacks
 
@@ -8765,12 +8612,10 @@ Hit Points 59 (7d10 + 21)
 Speed 30 ft., fly 80 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |15 (+2) |16 (+3) | 2 (-4) |13 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +5
@@ -8807,12 +8652,10 @@ Hit Points 11 (2d8 + 2)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |12 (+1) |12 (+1) | 9 (-1) | 8 (-1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Athletics +5, Perception +3, Stealth +3
@@ -8855,12 +8698,11 @@ _Medium fey, neutral evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |12 (+1) |16 (+3) |13 (+1) |14 (+2) |14 (+2) |
 {:.ability-block}
-```
+
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth
 +3
 
@@ -8928,12 +8770,10 @@ Hit Points 112 (15d8 + 45)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |15 (+2) |16 (+3) |16 (+3) |14 (+2) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Skills Deception +7, Insight +6, Perception +6, Stealth
@@ -9012,12 +8852,11 @@ _Medium fey, chaotic evil_
 
 **Speed** 30 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |13 (+1) |16 (+3) |12 (+1) |12 (+1) |13 (+1) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 11
 
 **Languages** Aquan, Common, Giant
@@ -9126,12 +8965,11 @@ _Medium humanoid (human), any alignment_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |13 (+1) |14 (+2) |10 (+0) |11 (+0) |10 (+0) |
 {:.ability-block}
-```
+
 **Skills** Athletics +5, Perception +2
 
 **Damage Resistances** fire
@@ -9238,12 +9076,11 @@ Hit Points 45 (7d8 + 14)
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |12 (+1) |14 (+2) | 6 (-2) |13 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +5
 
 **Damage Immunities** fire
@@ -9290,12 +9127,11 @@ _Large monstrosity, unaligned_
 
 **Speed** 40 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |13 (+1) |13 (+1) | 2 (-4) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
+
 **Skills** Perception +5
 
 **Senses** passive Perception 15
@@ -9333,12 +9169,10 @@ Hit Points 11 (2d8 + 2)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |12 (+1) |12 (+1) |10 (+0) |10 (+0) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 10
@@ -9378,12 +9212,10 @@ Hit Points 5 (2d4)
 Speed 20 ft., fly 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 4 (-3) |15 (+2) |11 (+0) |10 (+0) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities poison
@@ -9422,12 +9254,11 @@ _Huge monstrosity, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) |12 (+1) |20 (+5) | 2 (-4) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +6
 
 **Senses** darkvision 60 ft., passive Perception 16
@@ -9481,12 +9312,10 @@ Hit Points 104 (16d8 + 32)
 Speed 50 ft., fly 50 ft. (hover)
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |19 (+4) |14 (+2) |10 (+0) |15 (+2) |11 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +8, Stealth +10
@@ -9531,12 +9360,11 @@ _Small humanoid (kobold), lawful evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 7 (-2) |15 (+2) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 8
 
 **Languages** Common, Draconic
@@ -9574,7 +9402,6 @@ _Gargantuan monstrosity (titan)_ **,** _chaotic evil_
 
 **Speed** 20 ft., swim 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -9692,12 +9519,11 @@ _Large monstrosity, chaotic evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |13 (+1) |15 (+2) |14 (+2) |15 (+2) |16 (+3) |
 {:.ability-block}
-```
+
 **Skills** Deception +7, Insight +4, Stealth +3
 
 **Senses** darkvision 60 ft., passive Perception 12
@@ -9755,12 +9581,10 @@ Hit Points 135 (18d8 + 54)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |11 (+0) |16 (+3) |16 (+3) |20 (+5) |14 (+2) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Con +10, Int +12, Wis +9
@@ -9895,12 +9719,10 @@ Hit Points 22 (4d8 + 4)
 Speed 30 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |13 (+1) | 7 (-2) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +4, Survival +5
@@ -10017,12 +9839,10 @@ in boar or hybrid form
 
 **Speed** 30 ft. (40 ft. in boar form)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |10 (+0) |15 (+2) |10 (+0) |11 (+0) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +2
@@ -10145,12 +9965,11 @@ _Medium humanoid (human, shapechanger), neutral_
 
 **Speed** 30 ft. (40 ft. in tiger form)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |16 (+3) |10 (+0) |13 (+1) |11 (+0) |
 {:.ability-block}
-```
+
 **Skills** Perception +5, Stealth +4
 
 **Damage Immunities** bludgeoning, piercing, and
@@ -10296,12 +10115,10 @@ _
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 7 (-2) |15 (+2) |12 (+1) | 8 (-1) |11 (+0) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances bludgeoning, piercing, and
@@ -10346,12 +10163,10 @@ Speed
  30 ft., fly 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |16 (+3) |17 (+3) | 7 (-2) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 11
@@ -10399,12 +10214,11 @@ _Medium monstrosity, lawful evil_
 **Speed
 ** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |15 (+2) |16 (+3) |12 (+1) |13 (+1) |15 (+2) |
 {:.ability-block}
-```
+
 **Skills** Deception +5, Insight +4, Perception +4, Stealth
 +5
 
@@ -10477,12 +10291,10 @@ Hit Points 17 (5d6)
 Speed 30 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |14 (+2) |10 (+0) | 9 (-1) |11 (+0) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +2, Stealth +4
@@ -10593,12 +10405,10 @@ Hit Points 22 (5d6 + 5)
 Speed 30 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |12 (+1) |12 (+1) | 7 (-2) |10 (+0) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +3
@@ -10651,12 +10461,11 @@ Armor Class 10
 
 **Speed** 30 ft., fly 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |11 (+0) |10 (+0) |11 (+0) |10 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Damage Immunities** fire, poison
 
 **Condition Immunities** poisoned
@@ -10705,12 +10514,11 @@ _Medium humanoid (merfolk), neutral_
 **Speed
 ** 10 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |13 (+1) |12 (+1) |11 (+0) |11 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Skills** Perception +2
 
 **Senses
@@ -10743,12 +10551,10 @@ Hit Points
 Speed 10 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |10 (+0) |15 (+2) | 8 (-1) |10 (+0) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 10
@@ -10793,12 +10599,10 @@ Hit Points 58 (9d8 + 18)
 Speed 15 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |12 (+1) |15 (+2) | 5 (-3) |13 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +5
@@ -10858,12 +10662,11 @@ _Large monstrosity, chaotic evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |11 (+0) |16 (+3) | 6 (-2) |16 (+3) | 9 (-1) |
 {:.ability-block}
-```
+
 **Skills** Perception +7
 
 **Senses** darkvision 60 ft., passive Perception 17
@@ -10912,12 +10715,10 @@ Hit Points 58 (9d8 + 18)
 Speed 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) | 8 (-1) |15 (+2) | 6 (-2) |10 (+0) |12 (+1) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Wis +2
@@ -10973,12 +10774,11 @@ _Medium undead, lawful evil_
 
 **Speed** 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |10 (+0) |17 (+3) |11 (+0) |18 (+4) |16 (+3) |
 {:.ability-block}
-```
+
 **Saving Throws** Con +8, Int +5, Wis +9, Cha +8
 
 **Skills** History +5, Religion +5
@@ -11203,12 +11003,10 @@ Hit Points 75 (10d10 + 20)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |17 (+3) |14 (+2) |16 (+3) |15 (+2) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +6, Con +5, Wis +5, Cha +6
@@ -11280,12 +11078,11 @@ _Large fiend, neutral evil_
 
 **Speed** 60 ft., fly 90 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |15 (+2) |16 (+3) |10 (+0) |13 (+1) |15 (+2) |
 {:.ability-block}
-```
+
 **Damage Immunities** fire
 
 **Senses** passive Perception 11
@@ -11325,12 +11122,10 @@ Hit Points 59 (7d10 + 21)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) | 8 (-1) |16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 60 ft., passive Perception 8
@@ -11357,12 +11152,10 @@ Hit Points 110 (13d10 + 39)
 Speed 30 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |11 (+0) |16 (+3) |14 (+2) |12 (+1) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +3, Con +6, Wis +4, Cha +5
@@ -11424,12 +11217,11 @@ _Large ooze, unaligned_
 
 **Speed** 20 ft., climb 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) | 5 (-3) |16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 {:.ability-block}
-```
+
 **Damage Immunities** acid, cold, lightning, slashing
 
 **Condition Immunities** blinded, charmed, deafened,
@@ -11497,12 +11289,10 @@ Hit Points 84 (8d10 + 40)
 Speed 15 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) | 3 (-4) |20 (+5) | 1 (-5) | 6 (-2) | 1 (-5) |
 {:.ability-block}
-```
 
 ```
 Condition Immunities blinded, charmed, deafened,
@@ -11572,12 +11362,11 @@ _Medium ooze, unaligned_
 
 **Speed** 10 ft., climb 10 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) | 6 (-2) |16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 {:.ability-block}
-```
+
 **Skills** Stealth +2
 
 **Damage Resistances** acid, cold, fire
@@ -11632,12 +11421,10 @@ Hit Points 45 (6d10 + 12)
 Speed 10 ft., climb 10 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) | 6 (-2) |14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances acid
@@ -11686,12 +11473,11 @@ _Medium humanoid (orc), chaotic evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |12 (+1) |16 (+3) | 7 (-2) |11 (+0) |10 (+0) |
 {:.ability-block}
-```
+
 **Skills** Intimidation +2
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -11725,12 +11511,10 @@ Hit Points 114 (12d10 + 48)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |11 (+0) |19 (+4) | 6 (-2) |13 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Con +7
@@ -11793,12 +11577,11 @@ Armor Class 13 (natural armor)
 **Speed
 ** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) |12 (+1) |17 (+3) | 3 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +3
 
 **Senses** darkvision 60 ft., passive Perception 13
@@ -11835,12 +11618,11 @@ _Large celestial, chaotic good_
 
 **Speed** 60 ft., fly 90 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |15 (+2) |16 (+3) |10 (+0) |15 (+2) |13 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +4, Wis +4, Cha +3
 
 **Skills** Perception +6
@@ -11868,7 +11650,6 @@ Hit Points
 Speed 15 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -11923,12 +11704,10 @@ Hit Points 247 (15d20 + 90)
 Speed 50 ft., burrow 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |28 (+9) | 7 (-2) |22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
 {:.ability-block}
-```
 
 **Saving Throws** Con +11, Wis +4
 
@@ -11986,12 +11765,10 @@ _Medium fiend, lawful evil_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |17 (+3) |18 (+4) |13 (+1) |16 (+3) |20 (+5) |
 {:.ability-block}
-```
 
 ```
 Skills Deception +10, Insight +8
@@ -12058,12 +11835,10 @@ Hit Points
 Speed 30 ft., burrow 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |24 (+7) |13 (+1) |21 (+5) | 4 (-3) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 **Damage Immunities** cold, fire
 
@@ -12164,12 +11939,10 @@ Hit Points 93 (11d10 + 33)
 Speed 10 ft., climb 10 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) | 8 (-1) |17 (+3) | 7 (-2) |16 (+3) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +6, Stealth +5
@@ -12229,12 +12002,11 @@ _Medium monstrosity, unaligned_
 **Speed
 ** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |12 (+1) |13 (+1) | 2 (-4) |13 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 11
 
 **Languages** --
@@ -12286,12 +12058,10 @@ Speed
  30 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |11 (+0) |12 (+1) |12 (+1) |13 (+1) | 9 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +5
@@ -12344,12 +12114,11 @@ _Large elemental, neutral evil_
 **Speed
 ** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |14 (+2) |15 (+2) |11 (+0) |10 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Damage Vulnerabilities** cold
 
 **Damage Resistances** bludgeoning, piercing, and
@@ -12444,12 +12213,10 @@ Hit Points 16 (3d8 + 3)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |14 (+2) |13 (+1) | 6 (-2) |10 (+0) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +4 (+6 in dim light or darkness)
@@ -12502,12 +12269,11 @@ _Large plant, unaligned_
 
 **Speed** 20 ft., swim 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) | 8 (-1) |16 (+3) | 5 (-3) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Skills
 ** Stealth +2
 
@@ -12563,12 +12329,10 @@ Hit Points 142 (15d10 + 60)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) | 8 (-1) |18 (+4) | 7 (-2) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 10 ft., darkvision 60 ft., passive
@@ -12635,12 +12399,11 @@ _Medium undead, lawful evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |14 (+2) |15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 {:.ability-block}
-```
+
 **Damage Vulnerabilities** bludgeoning
 
 **Damage Immunities** poison
@@ -12677,12 +12440,11 @@ _Large undead, lawful evil_
 **Speed
 ** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |11 (+0) |15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 {:.ability-block}
-```
+
 **Damage Vulnerabilities** bludgeoning
 
 **Damage Immunities** poison
@@ -12724,12 +12486,10 @@ Hit Points 22 (3d10 + 6)
 Speed 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |12 (+1) |15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Damage Vulnerabilities bludgeoning
@@ -12756,12 +12516,10 @@ Hit Points 22 (5d8)
 Speed 0 ft., fly 50 ft. (hover)
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 1 (-5) |14 (+2) |11 (+0) |10 (+0) |10 (+0) |11 (+0) |
 {:.ability-block}
-```
 
 **Damage Resistances
 ** acid, cold, fire, lightning, thunder;
@@ -12817,12 +12575,11 @@ _Large monstrosity, lawful neutral_
 **Speed
 ** 40 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) |10 (+0) |20 (+5) |16 (+3) |18 (+4) |23 (+6) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
 **Skill s** Arcana +9, Perception +10, Religion +15
@@ -13034,12 +12791,10 @@ Hit Points 2 (1d4)
 Speed 10 ft., fly 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) |18 (+4) |10 (+0) |14 (+2) |13 (+1) |11 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +8
@@ -13087,12 +12842,11 @@ _Tiny beast, unaligned_
 
 **Speed** 10 ft., fly 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 4 (-3) |16 (+3) |11 (+0) | 2 (-4) | 8 (-1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 9
 
 **Languages** --
@@ -13124,12 +12878,10 @@ Hit Points 66 (12d8 + 12)
 Speed 30 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |17 (+3) |13 (+1) |15 (+2) |12 (+1) |20 (+5) |
 {:.ability-block}
-```
 
 ```
 Skills Deception +9, Insight +5, Perception +5,
@@ -13204,7 +12956,6 @@ _Gargantuan monstrosity (titan), unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 {:.ability-block}
@@ -13383,12 +13134,10 @@ Hit Points 84 (8d10 + 40)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |13 (+1) |20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +2
@@ -13430,12 +13179,10 @@ Hit Points 67 (9d10 + 18)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |14 (+2) |15 (+2) |11 (+0) |17 (+3) |16 (+3) |
 {:.ability-block}
-```
 
 ```
 Damage Immunities poison
@@ -13533,12 +13280,10 @@ Speed
  30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |18 (+4) |18 (+4) |17 (+3) |15 (+2) |18 (+4) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Dex +9, Wis +7, Cha +9
@@ -13694,12 +13439,11 @@ _Medium undead, neutral evil_
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |16 (+3) |16 (+3) |11 (+0) |10 (+0) |12 (+1) |
 {:.ability-block}
-```
+
 **Saving Throws** Dex +6, Wis +3
 
 **Skills** Perception +3, Stealth +6
@@ -13771,12 +13515,10 @@ Hit Points 45 (6d8 + 18)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |14 (+2) |16 (+3) |10 (+0) |13 (+1) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +4
@@ -13840,12 +13582,11 @@ _Tiny undead, chaotic evil_
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 1 (-5) |28 (+9) |10 (+0) |13 (+1) |14 (+2) |11 (+0) |
 {:.ability-block}
-```
+
 **Damage Immunities** lightning, poison
 
 **Damage Resistances
@@ -13908,12 +13649,10 @@ Hit Points
 Speed 0 ft., fly 60 ft. (hover)
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |16 (+3) |16 (+3) |12 (+1) |14 (+2) |15 (+2) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances
@@ -13971,12 +13710,11 @@ _Large dragon, unaligned_
 **Speed
 ** 20 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |16 (+3) | 5 (-3) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +4
 
 **Senses** darkvision 60 ft., passive Perception 14
@@ -14071,12 +13809,10 @@ Hit Points 22 (3d8 + 9)
 Speed 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) | 6 (-2) |16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Saving Throws Wis +0
@@ -14114,12 +13850,11 @@ _
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) | 6 (-2) |18 (+4) | 3 (-4) | 6 (-2) | 5 (-3) |
 {:.ability-block}
-```
+
 **Saving Throws** Wis +0
 
 **Damage Immunities** poison

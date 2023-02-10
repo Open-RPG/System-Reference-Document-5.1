@@ -17,12 +17,11 @@ _Medium beast, unaligned_
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |14 (+2) |14 (+2) | 6 (-2) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Athletics +5, Perception +3
 
 **Senses** passive Perception 13
@@ -52,12 +51,11 @@ _Small plant, unaligned _
 
 **Speed** 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) | 8 (-1) |11 (+0) |10 (+0) |10 (+0) | 6 (-2) |
 {:.ability-block}
-```
+
 **Damage Vulnerabilities** fire
 
 **Damage Resistances** piercing
@@ -94,12 +92,10 @@ Hit Points 59 (7d12 + 14)
 Speed 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) | 6 (-2) |15 (+2) |10 (+0) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Damage Vulnerabilities fire
@@ -167,12 +163,11 @@ _Small beast, unaligned _
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |14 (+2) |11 (+0) | 4 (-3) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 11
 
 **Languages** --
@@ -199,12 +194,10 @@ _Tiny beast, unaligned_
 
 **Speed** 20 ft., burrow 5 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 4 (-3) |11 (+0) |12 (+1) | 2 (-4) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 30 ft., passive Perception 11
@@ -234,12 +227,10 @@ Hit Points 1 (1d4 - 1)
 Speed 5 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |15 (+2) | 8 (-1) | 2 (-4) |12 (+1) | 4 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 60 ft., passive Perception 11
@@ -271,12 +262,10 @@ Hit Points 19 (3d8 + 6)
 Speed 40 ft., climb 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |14 (+2) | 2 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -311,12 +300,11 @@ _Medium fey, lawful good_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |17 (+3) |12 (+1) |10 (+0) |13 (+1) |11 (+0) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +5
 
 **Senses** passive Perception 13
@@ -350,12 +338,10 @@ Hit Points 7 (2d6)
 Speed 10 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |14 (+2) |10 (+0) | 3 (-4) |14 (+2) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -396,12 +382,10 @@ Hit Points 11 (2d8 + 2)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |11 (+0) |12 (+1) | 2 (-4) | 9 (-1) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 9
@@ -437,12 +421,10 @@ _Large beast, unaligned_
 
 **Speed** 40 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |16 (+3) | 2 (-4) |13 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 **Skills** Perception +3
 
@@ -477,12 +459,10 @@ _Large beast, unaligned_
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) | 8 (-1) |14 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 9
@@ -507,12 +487,10 @@ Hit Points 2 (1d4)
 Speed 40 ft., climb 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) |15 (+2) |10 (+0) | 3 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +4
@@ -543,12 +521,10 @@ Hit Points 13 (2d10 + 2)
 Speed 30 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |14 (+2) |12 (+1) | 1 (-5) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 10 ft., passive Perception 10
@@ -581,12 +557,11 @@ _Tiny beast, unaligned_
 
 **Speed** 20 ft., swim 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |11 (+0) |10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
 {:.ability-block}
-```
+
 **Skills** Stealth +2
 
 **Senses** blindsight 30 ft., passive Perception 9
@@ -613,12 +588,11 @@ _Large beast, unaligned_
 
 **Speed** 20 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |13 (+1) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Skills** Stealth +2
 
 **Senses** passive Perception 10
@@ -646,12 +620,10 @@ Hit Points 39 (6d8 + 12)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |14 (+2) |14 (+2) | 3 (-4) |13 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +5, Stealth +4
@@ -698,12 +670,11 @@ Hit Points 4 (1d8)
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |11 (+0) |16 (+3) |11 (+0) | 2 (-4) |14 (+2) | 5 (-3) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 12
 
 **Languages** --
@@ -726,12 +697,11 @@ _Large beast, unaligned_
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |15 (+2) | 3 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +4
 
 **Senses** passive Perception 13
@@ -792,12 +762,10 @@ Hit Points 3 (1d6)
 Speed 10 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |15 (+2) |10 (+0) | 2 (-4) |14 (+2) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -828,12 +796,10 @@ Hit Points 76 (8d12 + 24)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |22 (+6) | 9 (-1) |17 (+3) | 3 (-4) |11 (+0) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -866,12 +832,11 @@ _Large beast, unaligned_
 
 **Speed** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |10 (+0) |12 (+1) | 2 (-4) |10 (+0) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 10
 
 **Languages** --
@@ -942,12 +907,10 @@ Hit Points 1 (1d4 - 1)
 Speed 20 ft., swim 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 1 (-5) |13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +1, Stealth +3
@@ -979,12 +942,11 @@ _Huge beast, unaligned_
 
 **Speed** 40 ft., climb 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |14 (+2) |18 (+4) | 7 (-2) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Athletics +9, Perception +4
 
 **Senses** passive Perception 14
@@ -1014,12 +976,11 @@ _Medium beast, unaligned_
 
 **Speed** 30 ft., burrow 10 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |10 (+0) |15 (+2) | 2 (-4) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
+
 **Senses** darkvision 30 ft., passive Perception 11
 
 **Languages** --
@@ -1050,12 +1011,10 @@ Hit Points 22 (4d10)
 Speed 10 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |16 (+3) |11 (+0) | 2 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 60 ft., passive Perception 11
@@ -1086,12 +1045,10 @@ Hit Points 42 (5d10 + 15)
 Speed 4 0 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |10 (+0) |16 (+3) | 2 (-4) | 7 (-2) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 8
@@ -1126,12 +1083,10 @@ _Small beast, unaligned _
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |14 (+2) |12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 {:.ability-block}
-```
 
 **Senses** blindsight 30 ft., passive Perception 8
 
@@ -1159,12 +1114,11 @@ _Huge beast, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |14 (+2) |12 (+1) | 1 (-5) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Skills** Perception +2
 
 **Senses** blindsight 10 ft., passive Perception 12
@@ -1200,12 +1154,10 @@ Hit Points 13 (3d8)
 Speed 30 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |15 (+2) |11 (+0) | 1 (-5) | 9 (-1) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +4
@@ -1236,12 +1188,10 @@ Hit Points 85 (9d12 + 27)
 Speed 30 ft., swim 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) | 9 (-1) |17 (+3) | 2 (-4) |10 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +5
@@ -1282,12 +1232,11 @@ _Large beast, neutral good_
 
 **Speed** 10 ft., fly 80 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |17 (+3) |13 (+1) | 8 (-1) |14 (+2) |10 (+0) |
 {:.ability-block}
-```
+
 **Skills** Perception +4
 
 **Senses** passive Perception 14
@@ -1327,12 +1276,10 @@ _Huge beast, unaligned_
 Speed 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |16 (+3) |14 (+2) | 7 (-2) |14 (+2) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
@@ -1380,12 +1327,10 @@ Hit Points 4 (1d6 + 1)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |10 (+0) |12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 30 ft., passive Perception 8
@@ -1420,12 +1365,11 @@ _Medium beast, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |13 (+1) |11 (+0) | 2 (-4) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Skills** Perception +2, Stealth +3
 
 **Senses** darkvision 30 ft., passive Perception 12
@@ -1466,12 +1410,10 @@ Hit Points 19 (3d10 + 3)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |11 (+0) |12 (+1) | 3 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 11
@@ -1506,12 +1448,10 @@ Hit Points 45 (6d10 + 12)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |14 (+2) |14 (+2) | 2 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -1540,12 +1480,11 @@ _Large beast, unaligned_
 
 **Speed** 30 ft., climb 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |12 (+1) |13 (+1) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Senses** darkvision 30 ft., passive Perception 10
 
 **Languages** --
@@ -1572,12 +1511,11 @@ _Large beast, unaligned_
 
 **Speed** 10 ft., swim 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |13 (+1) |13 (+1) | 4 (-3) |10 (+0) | 4 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +4, Stealth +5
 
 **Senses** darkvision 60 ft., passive Perception 14
@@ -1620,12 +1558,10 @@ Hit Points 19 (3d10 + 3)
 Speed 5 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |15 (+2) |12 (+1) | 8 (-1) |13 (+1) |10 (+0) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +5, Stealth +4
@@ -1666,12 +1602,11 @@ _Medium beast, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |18 (+4) |13 (+1) | 2 (-4) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Skills** Perception +2
 
 **Senses** blindsight 10 ft., passive Perception 12
@@ -1697,12 +1632,11 @@ _Small beast, unaligned _
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 7 (-2) |15 (+2) |11 (+0) | 2 (-4) |10 (+0) | 4 (-3) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 10
 
 **Languages** --
@@ -1746,12 +1680,10 @@ Hit Points 52 (7d10 + 14)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |13 (+1) |15 (+2) | 1 (-5) | 9 (-1) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses blindsight 60 ft., passive Perception 9
@@ -1784,12 +1716,10 @@ Hit Points 16 (3d10)
 Speed 0 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |15 (+2) |11 (+0) | 2 (-4) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
 
 **Senses** passive Perception 11
 
@@ -1825,12 +1755,11 @@ _Huge beast, unaligned_
 
 **Speed** 0 ft., swim 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |23 (+6) |11 (+0) |21 (+5) | 1 (-5) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
+
 **Skills
 ** Perception +3
 
@@ -1866,12 +1795,10 @@ Hit Points 26 (4d10 + 4)
 Speed 30 ft., climb 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |16 (+3) |12 (+1) | 2 (-4) |11 (+0) | 4 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +7
@@ -1923,12 +1850,11 @@ _Large beast, unaligned_
 
 **Speed** 20 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |13 (+1) |13 (+1) | 2 (-4) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Senses** darkvision 30 ft., passive Perception 10
 
 **Languages** --
@@ -1970,12 +1896,10 @@ _Large beast, neutral evil_
 Speed 10 ft., fly 60 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |15 (+2) | 6 (-2) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -2020,12 +1944,10 @@ Hit Points 13 (3d8)
 Speed 10 ft., fly 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |10 (+0) |14 (+2) |10 (+0) | 1 (-5) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -2054,12 +1976,11 @@ _Medium beast, unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |11 (+0) |16 (+3) |10 (+0) | 4 (-3) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +5
 
 **Senses** darkvision 60 ft., passive Perception 13
@@ -2087,12 +2008,11 @@ _Medium beast, unaligned_
 
 **Speed** 40 ft., climb 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |16 (+3) |13 (+1) | 3 (-4) |12 (+1) | 4 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +7
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive
@@ -2138,12 +2058,10 @@ Hit Points 4 (1d8)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |10 (+0) |11 (+0) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -2177,12 +2095,11 @@ _Tiny beast, unaligned_
 
 **Speed** 10 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |16 (+3) | 8 (-1) | 2 (-4) |14 (+2) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +4
 
 **Senses** passive Perception 14
@@ -2210,12 +2127,11 @@ _Large beast, unaligned_
 
 **Speed** 0 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |13 (+1) |15 (+2) | 1 (-5) |10 (+0) | 4 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +2
 
 **Senses** blindsight 30 ft., passive Perception 12
@@ -2252,12 +2168,10 @@ Hit Points 5 (1d8 + 1)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |11 (+0) |13 (+1) |12 (+1) | 2 (-4) |12 (+1) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -2289,12 +2203,10 @@ Hit Points 3 (1d6)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |15 (+2) |11 (+0) | 3 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -2327,12 +2239,11 @@ _Huge beast, unaligned_
 
 **Speed** 0 ft., swim 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |19 (+4) |10 (+0) |13 (+1) | 3 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills
 ** Perception +3
 
@@ -2366,12 +2277,10 @@ _Large beast, unaligned_
 
 **Spee d** 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |13 (+1) | 3 (-4) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +6
@@ -2415,12 +2324,10 @@ Hit Points 2 (1d4)
 Speed 20 ft., climb 20 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |11 (+0) |10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Senses darkvision 30 ft., passive Perception 9
@@ -2446,12 +2353,11 @@ _Huge beast, unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |24 (+7) | 9 (-1) |21 (+5) | 3 (-4) |11 (+0) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 10
 
 **Languages** --
@@ -2487,12 +2393,11 @@ _Medium beast, unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |14 (+2) |12 (+1) | 3 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +3
 
 **Senses** passive Perception 13
@@ -2530,12 +2435,10 @@ Hit Points 11 (2d8 + 2)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |10 (+0) |13 (+1) | 2 (-4) |10 (+0) | 5 (-3) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -2611,12 +2514,11 @@ _Tiny beast, unaligned_
 
 **Speed** 5 ft., fly 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) |13 (+1) | 8 (-1) | 2 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +3
 
 **Senses** darkvision 120 ft., passive Perception 13
@@ -2648,12 +2550,10 @@ Hit Points 13 (3d8)
 Speed 50 ft., climb 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |15 (+2) |10 (+0) | 3 (-4) |14 (+2) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4, Stealth +6
@@ -2691,12 +2591,10 @@ Hit Points 32 (5d10 + 5)
 Speed 30 ft., climb 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |15 (+2) |12 (+1) | 6 (-2) |10 (+0) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Stealth +6
@@ -2740,12 +2638,11 @@ _Tiny beast, unaligned_
 
 **Speed** 30 ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |16 (+3) |11 (+0) | 1 (-5) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Senses** blindsight 10 ft., passive Perception 10
 
 **Languages** --
@@ -2769,12 +2666,10 @@ Hit Points 42 (5d10 + 15)
 Speed 40 ft., swim 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |20 (+5) |10 (+0) |16 (+3) | 2 (-4) |13 (+1) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -2812,12 +2707,10 @@ Hit Points 11 (2d8 + 2)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |15 (+2) |10 (+0) |13 (+1) | 2 (-4) |11 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -2843,12 +2736,11 @@ _Tiny beast, unaligned_
 
 **Speed** 0 ft., swim 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 {:.ability-block}
-```
+
 **Senses** darkvision 60 ft., passive Perception 8
 
 **Languages** --
@@ -2882,12 +2774,11 @@ _Tiny beast, unaligned _
 
 **Speed** 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |11 (+0) | 9 (-1) | 2 (-4) |10 (+0) | 4 (-3) |
 {:.ability-block}
-```
+
 **Senses** darkvision 30 ft., passive Perception 10
 
 **Languages** --
@@ -2914,12 +2805,10 @@ Hit Points 1 (1d4 - 1)
 Speed 10 ft., fly 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |14 (+2) | 8 (-1) | 2 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3
@@ -2952,12 +2841,10 @@ Hit Points 22 (4d8 + 4)
 Speed 0 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |14 (+2) |13 (+1) |13 (+1) | 1 (-5) |10 (+0) | 4 (-3) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +2
@@ -2992,12 +2879,11 @@ _Large beast, unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |21 (+5) | 8 (-1) |15 (+2) | 2 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 11
 
 **Languages** --
@@ -3025,12 +2911,10 @@ _Large beast, unaligned_
 
 **Speed** 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |10 (+0) |12 (+1) | 2 (-4) |11 (+0) | 7 (-2) |
 {:.ability-block}
-```
 
 ```
 Senses passive Perception 10
@@ -3054,12 +2938,10 @@ Hit Points 52 (7d10 + 14)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |14 (+2) |15 (+2) | 3 (-4) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +6
@@ -3097,12 +2979,10 @@ Hit Points 1 (1d4 - 1)
 Speed 10 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
 {:.ability-block}
-```
 
 **Senses** blindsight 10 ft., passive Perception 9
 
@@ -3129,12 +3009,11 @@ _Tiny beast, unaligned_
 
 **Speed** 0 ft., swim 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 1 (-5) |12 (+1) | 8 (-1) | 1 (-5) |10 (+0) | 2 (-4) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 10
 
 **Languages** --
@@ -3156,12 +3035,11 @@ _Tiny beast, unaligned_
 
 **Speed** 20 ft., climb 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 2 (-4) |14 (+2) | 8 (-1) | 1 (-5) |10 (+0) | 2 (-4) |
 {:.ability-block}
-```
+
 **Skills** Stealth +4
 
 **Senses** darkvision 30 ft., passive Perception 10
@@ -3202,12 +3080,10 @@ Hit Points 22 (5d8)
 Speed 0 ft., fly 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 5 (-3) |15 (+2) |10 (+0) | 2 (-4) |12 (+1) | 4 (-3) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances bludgeoning, piercing, slashing Condition Immunities
@@ -3247,12 +3123,11 @@ Armor Class 12 (natural armor)
 
 **Spe ed** 20 ft., climb 20 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) |13 (+1) |10 (+0) | 1 (-5) | 7 (-2) | 1 (-5) |
 {:.ability-block}
-```
+
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled,
@@ -3288,12 +3163,11 @@ _Medium swarm of Tiny beasts, unaligned_
 **Speed** 30
  ft., swim 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 8 (-1) |18 (+4) |11 (+0) | 1 (-5) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified,
@@ -3330,12 +3204,10 @@ Hit Points 28 (8d8 - 8)
 Speed 0 ft., swim 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |13 (+1) |16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 {:.ability-block}
-```
 
 ```
 Damage Resistances bludgeoning, piercing, slashing Condition Immunities
@@ -3376,12 +3248,11 @@ Hit Points 24 (7d8 - 7)
 
 **Speed** 30 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 9 (-1) |11 (+0) | 9 (-1) | 2 (-4) |10 (+0) | 3 (-4) |
 {:.ability-block}
-```
+
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled,
@@ -3421,12 +3292,11 @@ _
 
 **Speed** 10 ft., fly 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 6 (-2) |14 (+2) | 8 (-1) | 3 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +5
 
 **Damage Resistances** bludgeoning, piercing, slashing
@@ -3488,12 +3358,10 @@ Hit Points 37 (5d10 + 10)
 Speed 40 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |17 (+3) |15 (+2) |14 (+2) | 3 (-4) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +6
@@ -3532,12 +3400,11 @@ _Medium beast, unaligned_
 
 **Speed** 10 ft., fly 50 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 7 (-2) |10 (+0) |13 (+1) | 2 (-4) |12 (+1) | 4 (-3) |
 {:.ability-block}
-```
+
 **Skills** Perception +3
 
 **Senses** passive Perception 13
@@ -3569,12 +3436,11 @@ _Large beast, unaligned_
 
 **Speed** 60 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |12 (+1) |13 (+1) | 2 (-4) |12 (+1) | 7 (-2) |
 {:.ability-block}
-```
+
 **Senses** passive Perception 11
 
 **Languages** --
@@ -3604,12 +3470,10 @@ Hit Points 1 (1d4 - 1)
 Speed 30 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 | 3 (-4) |16 (+3) | 8 (-1) | 2 (-4) |12 (+1) | 3 (-4) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +3, Stealth +5
@@ -3639,12 +3503,10 @@ Hit Points 75 (10d10 + 20)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |18 (+4) |13 (+1) |14 (+2) | 7 (-2) |12 (+1) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +5, Stealth +3
@@ -3698,12 +3560,11 @@ _Medium beast, unaligned_
 
 **Speed** 40 ft.
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |12 (+1) |15 (+2) |12 (+1) | 3 (-4) |12 (+1) | 6 (-2) |
 {:.ability-block}
-```
+
 **Skills** Perception +3, Stealth +4
 
 **Senses** passive Perception 13
@@ -3743,12 +3604,10 @@ Hit Points 26 (4d10 + 4)
 Speed 50 ft.
 ```
 
-```
 |  STR   |  DEX   |  CON   |  INT   |  WIS   |  CHA   |
 |--------|--------|--------|--------|--------|--------|
 |16 (+3) |13 (+1) |13 (+1) | 7 (-2) |11 (+0) | 8 (-1) |
 {:.ability-block}
-```
 
 ```
 Skills Perception +4
