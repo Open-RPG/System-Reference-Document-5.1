@@ -16,7 +16,7 @@ info rmation on creature size and space.
 #### Size Categories
 
 **Size Space Examples**
-Tiny 2[-1/2] by 2[-1/2] ft. Imp, sprite
+Tiny 2½ by 2½ ft. Imp, sprite
 Small 5 by 5 ft. Giant rat, goblin
 Medium 5 by 5 ft. Orc, werewolf
 Large 10 by 10 ft. Hippogriff, ogre
@@ -226,7 +226,7 @@ Player's Handbook.
 A monster's hit points are presented both as a die
 expression and as an average number. For example,
 a monster with 2d8 hit points has 9 hit points on
-average (2 [x] 4[-1/2]).
+average (2 × 4½).
 A monster's size determines the die used to
 calculate its hit points, as shown in the Hit Dice by
 Size table.
@@ -235,12 +235,12 @@ Size table.
 #### Hit Dice by Size
 
 **Monster Size Hit Die Average HP per Die**
-Tiny d4 2[-1/2]
-Small d6 3[-1/2]
-Medium d8 4[-1/2]
-Large d10 5[-1/2]
-Huge d12 6[-1/2]
-Gargantuan d20 10[-1/2]
+Tiny d4 2½
+Small d6 3½
+Medium d8 4½
+Large d10 5½
+Huge d12 6½
+Gargantuan d20 10½
 
 A monster's Constitution modifier also affects the
 number of hit points it has. Its Constitution modifier
@@ -7586,7 +7586,7 @@ on the other plane.
 _** Each non-undead creature within 60
 feet of the ghost that can see it must succeed on a DC
 13 Wisdom saving throw or be frightened for 1 minute.
-If the save fails by 5 or more, the target also ages 1d4 [x]
+If the save fails by 5 or more, the target also ages 1d4 ×
 10
  years. A frightened target can repeat the saving
 throw at the end of each of its turns, ending the
